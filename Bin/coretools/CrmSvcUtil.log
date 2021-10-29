@@ -1,0 +1,126 @@
+CrmSvcUtil Error: 2 : Exiting program with exit code 2 due to exception : System.NotSupportedException: Could not load provider of type 'Microsoft.Xrm.Client.CodeGeneration.CodeCustomization, Microsoft.Xrm.Client.CodeGeneration'
+   at Microsoft.Crm.Services.Utility.ServiceFactory.CreateInstance[TIService](TIService defaultServiceInstance, String parameterValue, CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.ServiceProvider.InitializeServices(CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.get_ServiceProvider()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+CrmSvcUtil Error: 2 : ===== DETAIL ======
+CrmSvcUtil Error: 2 : Source	: CrmSvcUtil
+Method	: CreateInstance
+Date	: 7:20:01 PM
+Time	: 3/31/2020
+Error	: Could not load provider of type 'Microsoft.Xrm.Client.CodeGeneration.CodeCustomization, Microsoft.Xrm.Client.CodeGeneration'
+Stack Trace	: at Microsoft.Crm.Services.Utility.ServiceFactory.CreateInstance[TIService](TIService defaultServiceInstance, String parameterValue, CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.ServiceProvider.InitializeServices(CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.get_ServiceProvider()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+======================================================================================================================
+
+CrmSvcUtil Error: 2 : Exiting program with exit code 2 due to exception : System.NotSupportedException: Could not load provider of type 'Microsoft.Xrm.Client.CodeGeneration.CodeCustomization, Microsoft.Xrm.Client.CodeGeneration'
+   at Microsoft.Crm.Services.Utility.ServiceFactory.CreateInstance[TIService](TIService defaultServiceInstance, String parameterValue, CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.ServiceProvider.InitializeServices(CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.get_ServiceProvider()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+CrmSvcUtil Error: 2 : ===== DETAIL ======
+CrmSvcUtil Error: 2 : Source	: CrmSvcUtil
+Method	: CreateInstance
+Date	: 7:20:54 PM
+Time	: 3/31/2020
+Error	: Could not load provider of type 'Microsoft.Xrm.Client.CodeGeneration.CodeCustomization, Microsoft.Xrm.Client.CodeGeneration'
+Stack Trace	: at Microsoft.Crm.Services.Utility.ServiceFactory.CreateInstance[TIService](TIService defaultServiceInstance, String parameterValue, CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.ServiceProvider.InitializeServices(CrmSvcUtilParameters parameters)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.get_ServiceProvider()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+======================================================================================================================
+
+Microsoft.Xrm.Tooling.Connector.CrmServiceClient Error: 2 : Unable to login to Dynamics CRM, Error was : Metadata contains a reference that cannot be resolved: 'https://wefamilyoffices.api.crm.dynamics.com/_common/error/errorhandler.aspx?user_lcid=1033&ErrorCode=&RequestUri=%2fXRMServices%2f2011%2fDiscovery.svc%3fwsdl%26sdkversion%3d9&BackUri=&Parm0=%0d%0a%0d%0aError Details: The service '%2fXRMServices%2f2011%2fDiscovery.svc' cannot be activated due to an exception during compilation.  The exception message is: Could not load file or assembly 'Microsoft.Crm.Site.Services%2c Version%3d9.0.0.0%2c Culture%3dneutral%2c PublicKeyToken%3d31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified..'.
+Source	: System.ServiceModel
+Method	: Retrieve
+Date	: 3/31/2020
+Time	: 7:25:02 PM
+Error	: Metadata contains a reference that cannot be resolved: 'https://wefamilyoffices.api.crm.dynamics.com/_common/error/errorhandler.aspx?user_lcid=1033&ErrorCode=&RequestUri=%2fXRMServices%2f2011%2fDiscovery.svc%3fwsdl%26sdkversion%3d9&BackUri=&Parm0=%0d%0a%0d%0aError Details: The service '%2fXRMServices%2f2011%2fDiscovery.svc' cannot be activated due to an exception during compilation.  The exception message is: Could not load file or assembly 'Microsoft.Crm.Site.Services%2c Version%3d9.0.0.0%2c Culture%3dneutral%2c PublicKeyToken%3d31bf3856ad364e35' or one of its dependencies. The system cannot find the file specified..'.
+Stack Trace	: at System.ServiceModel.Description.MetadataExchangeClient.MetadataRetriever.Retrieve(TimeoutHelper timeoutHelper)
+   at System.ServiceModel.Description.MetadataExchangeClient.ResolveNext(ResolveCallState resolveCallState)
+   at System.ServiceModel.Description.MetadataExchangeClient.GetMetadata(MetadataRetriever retriever)
+   at System.ServiceModel.Description.MetadataExchangeClient.GetMetadata(Uri address, MetadataExchangeClientMode mode)
+   at Microsoft.Xrm.Sdk.Client.ServiceMetadataUtility.RetrieveServiceEndpointMetadata(Type contractType, Uri serviceUri, Boolean checkForSecondary)
+   at Microsoft.Xrm.Sdk.Client.ServiceConfiguration`1..ctor(Uri serviceUri, Boolean checkForSecondary)
+   at Microsoft.Xrm.Sdk.Client.ServiceConfigurationFactory.CreateManagement[TService](Uri serviceUri, Boolean enableProxyTypes, Assembly assembly)
+   at Microsoft.Xrm.Sdk.Client.ServiceConfigurationFactory.CreateManagement[TService](Uri serviceUri)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.CreateAndAuthenticateProxy[T](IServiceManagement`1 servicecfg, Uri ServiceUri, Uri homeRealm, ClientCredentials userCredentials, ClientCredentials deviceCredentials, String LogString, CrmLogEntry logSink)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.DiscoverOrganizations(Uri discoveryServiceUri, Uri homeRealmUri, ClientCredentials clientCredentials, ClientCredentials deviceCredentials, CrmLogEntry logSink)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.DiscoverOrganizations(Uri discoveryServiceUri, Uri homeRealmUri, NetworkCredential networkCredential, CrmLogEntry logSink)
+   at Microsoft.Xrm.Tooling.Connector.CrmWebSvc.InitCRM2011Service()
+======================================================================================================================
+Inner Exception Level 1	: 
+Source	: System.Runtime.Serialization
+Method	: ThrowXmlException
+Date	: 3/31/2020
+Time	: 7:25:02 PM
+Error	: CData elements not valid at top level of an XML document. Line 1, position 3.
+Stack Trace	: at System.Xml.XmlExceptionHelper.ThrowXmlException(XmlDictionaryReader reader, XmlException exception)
+   at System.Xml.XmlUTF8TextReader.Read()
+   at System.ServiceModel.Description.MetadataExchangeClient.MetadataLocationRetriever.GetXmlReader(HttpWebResponse response, Int64 maxMessageSize, XmlDictionaryReaderQuotas readerQuotas)
+   at System.ServiceModel.Description.MetadataExchangeClient.MetadataLocationRetriever.DownloadMetadata(TimeoutHelper timeoutHelper)
+   at System.ServiceModel.Description.MetadataExchangeClient.MetadataRetriever.Retrieve(TimeoutHelper timeoutHelper)
+======================================================================================================================
+
+Microsoft.Xrm.Tooling.Connector.CrmServiceClient Error: 2 : Unable to Login to Dynamics CRM
+Microsoft.Xrm.Tooling.Connector.CrmServiceClient Error: 2 : Unable to Login to Dynamics CRM
+Source	: Not Provided
+Method	: Not Provided
+Date	: 3/31/2020
+Time	: 7:25:02 PM
+Error	: Unable to Login to Dynamics CRM
+Stack Trace	: Not Provided
+======================================================================================================================
+
+CrmSvcUtil Error: 2 : Exiting program with exit code 2 due to exception : System.Exception: Connection to CRM is not established. Aborting process.
+   at Microsoft.Crm.Services.Utility.SdkMetadataProviderService.LoadMetadata(IServiceProvider service)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+CrmSvcUtil Error: 2 : ===== DETAIL ======
+CrmSvcUtil Error: 2 : Source	: CrmSvcUtil
+Method	: LoadMetadata
+Date	: 7:25:02 PM
+Time	: 3/31/2020
+Error	: Connection to CRM is not established. Aborting process.
+Stack Trace	: at Microsoft.Crm.Services.Utility.SdkMetadataProviderService.LoadMetadata(IServiceProvider service)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+======================================================================================================================
+
+CrmSvcUtil Error: 2 : Exiting program with exit code 2 due to exception : System.IO.DirectoryNotFoundException: Could not find a part of the path 'E:\Office\Reporting Custom\Bin\coretools\Xrm\Xrm.cs'.
+   at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Microsoft.Crm.Services.Utility.CodeGenerationService.WriteFile(String outputFile, String language, CodeNamespace codenamespace, ServiceProvider serviceProvider)
+   at Microsoft.Crm.Services.Utility.CodeGenerationService.Microsoft.Crm.Services.Utility.ICodeGenerationService.Write(IOrganizationMetadata organizationMetadata, String language, String outputFile, String outputNamespace, IServiceProvider services)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.WriteCode(IOrganizationMetadata organizationMetadata)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+CrmSvcUtil Error: 2 : ===== DETAIL ======
+CrmSvcUtil Error: 2 : Source	: mscorlib
+Method	: WinIOError
+Date	: 7:33:50 PM
+Time	: 3/31/2020
+Error	: Could not find a part of the path 'E:\Office\Reporting Custom\Bin\coretools\Xrm\Xrm.cs'.
+Stack Trace	: at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize, Boolean checkHost)
+   at System.IO.StreamWriter..ctor(String path)
+   at Microsoft.Crm.Services.Utility.CodeGenerationService.WriteFile(String outputFile, String language, CodeNamespace codenamespace, ServiceProvider serviceProvider)
+   at Microsoft.Crm.Services.Utility.CodeGenerationService.Microsoft.Crm.Services.Utility.ICodeGenerationService.Write(IOrganizationMetadata organizationMetadata, String language, String outputFile, String outputNamespace, IServiceProvider services)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.WriteCode(IOrganizationMetadata organizationMetadata)
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Run()
+   at Microsoft.Crm.Services.Utility.CrmSvcUtil.Main(String[] args)
+======================================================================================================================
+

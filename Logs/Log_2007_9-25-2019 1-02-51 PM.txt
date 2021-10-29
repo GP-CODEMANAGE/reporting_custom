@@ -1,0 +1,127 @@
+----------------------------------PROCESS START------------------------- 9/25/2019 1:02:51 PM
+ReadFile ---9/25/2019 1:02:55 PM
+ProcName.Length 2---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\Billing_Invoice_Entry.aspx---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\Billing_Invoice_Entry.aspx.cs---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX.sln---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX.v11.suo---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\.suo---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\db.lock---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\storage.ide---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\storage.ide-shm---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\storage.ide-wal---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\App.config---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\APX.csproj---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\APX.csproj.user---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Form1.cs---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Form1.Designer.cs---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Form1.resx---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Logs.cs---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Program.cs---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.exe---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.exe.config---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.pdb---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.vshost.exe---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.vshost.exe.config---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.vshost.exe.manifest---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\AXYS Load.vshost.exe.config---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\AXYS Load.vshost.exe.manifest---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Axys_Transaction_Position_ErrorFile_Template.xls---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Axys_Transaction_Position_ErrorFile_Template.xlsx---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\EPPlus.dll---9/25/2019 1:02:55 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Microsoft.Crm.Sdk.dll---9/25/2019 1:02:56 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll---9/25/2019 1:02:56 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll---9/25/2019 1:02:56 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.Common.dll---9/25/2019 1:02:56 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.License.dll---9/25/2019 1:02:56 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.Pdf.dll---9/25/2019 1:02:56 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.XLS.dll---9/25/2019 1:02:57 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\APX to CRM Recon 20180604203211.xlsx---9/25/2019 1:02:58 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\APX to CRM Recon 20180604203546.xlsx---9/25/2019 1:02:58 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\APX to CRM Recon.xlsx---9/25/2019 1:02:58 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\AxysLoadErrorFile_060118033354.xlsx---9/25/2019 1:02:58 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csproj.CoreCompileInputs.cache---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csproj.FileListAbsolute.txt---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csprojAssemblyReference.cache---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.exe---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.Form1.resources---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.pdb---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.Properties.Resources.resources---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\DesignTimeResolveAssemblyReferences.cache---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\AssemblyInfo.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Resources.Designer.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Resources.resx---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Settings.Designer.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Settings.settings---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\Exe Changes\APX.exe---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\Exe Changes\APX.exe.config---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\Billing_Invoice_Entry.aspx---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\Billing_Invoice_Entry.aspx.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX.sln---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX.v11.suo---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\.suo---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\db.lock---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\storage.ide---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\storage.ide-shm---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\.vs\APX\v15\Server\sqlite3\storage.ide-wal---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\App.config---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\APX.csproj---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\APX.csproj.user---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Form1.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Form1.Designer.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Form1.resx---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Logs.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Program.cs---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.exe---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.exe.config---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.pdb---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.vshost.exe---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.vshost.exe.config---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\APX.vshost.exe.manifest---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\AXYS Load.vshost.exe.config---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\AXYS Load.vshost.exe.manifest---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Axys_Transaction_Position_ErrorFile_Template.xls---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Axys_Transaction_Position_ErrorFile_Template.xlsx---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\EPPlus.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Microsoft.Crm.Sdk.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.Common.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.License.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.Pdf.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\Spire.XLS.dll---9/25/2019 1:02:59 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\APX to CRM Recon 20180604203211.xlsx---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\APX to CRM Recon 20180604203546.xlsx---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\APX to CRM Recon.xlsx---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\bin\Debug\ReportOutput\AxysLoadErrorFile_060118033354.xlsx---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csproj.CoreCompileInputs.cache---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csproj.FileListAbsolute.txt---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csprojAssemblyReference.cache---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.exe---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.Form1.resources---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.pdb---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\APX.Properties.Resources.resources---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\DesignTimeResolveAssemblyReferences.cache---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\AssemblyInfo.cs---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Resources.Designer.cs---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Resources.resx---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Settings.Designer.cs---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\APX\Properties\Settings.settings---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\Exe Changes\APX.exe---9/25/2019 1:03:00 PM
+File Checked: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\Check\APX\Exe Changes\APX.exe.config---9/25/2019 1:03:00 PM
+Excel_FilePath: D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\ExcelTemplate\TempFolder\2019_09_2513_03_010_221_TEST.xlsx---9/25/2019 1:03:10 PM
+Error in PROCESS: Thread was being aborted.---9/25/2019 1:03:25 PM

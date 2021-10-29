@@ -1,0 +1,102 @@
+Start Page Load 5/21/2019 3:10:10 PM
+Option selected Approve
+assignRequest3 =5/21/2019 3:10:31 PM
+assignRequest3 =5/21/2019 3:10:33 PM
+,Report Genetare start 1,5/21/2019 3:10:40 PM,
+Start Report =5/21/2019 3:10:40 PM
+Get DATATABLE5/21/2019 3:10:45 PM
+DATATABLE End5/21/2019 3:10:45 PM
+Franke ,,5/21/2019 3:10:45 PM,
+Report Name Capital Markets Review
+Franke ,,5/21/2019 3:11:29 PM,
+Report Name Long Term Commentary
+Franke ,,5/21/2019 3:12:25 PM,
+Report Name Absolute Returns
+Franke ,Absolute Returns,5/21/2019 3:12:28 PM,
+Franke ,Absolute Returns,5/21/2019 3:12:28 PM,5/21/2019 3:12:31 PM
+Franke ,Coversheet,5/21/2019 3:12:31 PM,
+Franke ,Absolute Returns,5/21/2019 3:12:31 PM,5/21/2019 3:12:32 PM
+Franke ,,5/21/2019 3:12:32 PM,
+Report Name Capital Protection
+Franke ,Capital Protection,5/21/2019 3:12:51 PM,
+Franke ,Capital Protection,5/21/2019 3:12:51 PM,5/21/2019 3:13:07 PM
+Franke ,,5/21/2019 3:13:07 PM,
+Report Name Short Term Commentary
+Franke ,,5/21/2019 3:13:08 PM,
+Report Name Short Term Performance
+Franke ,Short Term Performance,5/21/2019 3:13:21 PM,
+Franke ,Short Term Performance,5/21/2019 3:13:21 PM,5/21/2019 3:13:27 PM
+Franke ,,5/21/2019 3:13:27 PM,
+Report Name Marketable Performance Commentary
+Franke ,,5/21/2019 3:13:27 PM,
+Report Name Marketable Performance
+Franke ,Marketable Performance,5/21/2019 3:13:27 PM,
+Franke ,Marketable Performance,5/21/2019 3:13:27 PM,5/21/2019 3:13:34 PM
+Franke ,,5/21/2019 3:13:34 PM,
+Report Name Portfolio Construction Chart v2.1
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:13:34 PM,
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:13:34 PM,5/21/2019 3:13:40 PM
+Franke ,,5/21/2019 3:13:40 PM,
+Report Name Asset Distribution
+Franke ,Asset Distribution,5/21/2019 3:13:40 PM,
+Franke ,Asset Distribution,5/21/2019 3:13:40 PM,5/21/2019 3:13:47 PM
+Franke ,,5/21/2019 3:13:47 PM,
+Report Name Portfolio Construction Chart v2.1
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:13:47 PM,
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:13:47 PM,5/21/2019 3:13:51 PM
+Franke ,,5/21/2019 3:13:51 PM,
+Report Name Asset Distribution
+Franke ,Asset Distribution,5/21/2019 3:13:51 PM,
+Franke ,Asset Distribution,5/21/2019 3:13:51 PM,5/21/2019 3:13:57 PM
+Franke ,,5/21/2019 3:13:57 PM,
+Report Name Private Equity Performance
+Franke ,Private Equity Performance,5/21/2019 3:13:57 PM,
+Report END 5/21/2019 3:14:35 PM
+Start Report =5/21/2019 3:14:41 PM
+Get DATATABLE5/21/2019 3:14:51 PM
+DATATABLE End5/21/2019 3:14:52 PM
+Franke ,,5/21/2019 3:14:52 PM,
+Report Name Capital Markets Review
+Franke ,,5/21/2019 3:14:52 PM,
+Report Name Long Term Commentary
+Franke ,,5/21/2019 3:14:52 PM,
+Report Name Absolute Returns
+Franke ,Absolute Returns,5/21/2019 3:14:52 PM,
+Franke ,Absolute Returns,5/21/2019 3:14:52 PM,5/21/2019 3:15:00 PM
+Franke ,Coversheet,5/21/2019 3:15:00 PM,
+Franke ,Absolute Returns,5/21/2019 3:15:00 PM,5/21/2019 3:15:00 PM
+Franke ,,5/21/2019 3:15:00 PM,
+Report Name Capital Protection
+Franke ,Capital Protection,5/21/2019 3:15:00 PM,
+Franke ,Capital Protection,5/21/2019 3:15:00 PM,5/21/2019 3:15:11 PM
+Franke ,,5/21/2019 3:15:11 PM,
+Report Name Short Term Commentary
+Franke ,,5/21/2019 3:15:11 PM,
+Report Name Short Term Performance
+Franke ,Short Term Performance,5/21/2019 3:15:11 PM,
+Franke ,Short Term Performance,5/21/2019 3:15:11 PM,5/21/2019 3:15:14 PM
+Franke ,,5/21/2019 3:15:14 PM,
+Report Name Marketable Performance Commentary
+Franke ,,5/21/2019 3:15:14 PM,
+Report Name Marketable Performance
+Franke ,Marketable Performance,5/21/2019 3:15:14 PM,
+Franke ,Marketable Performance,5/21/2019 3:15:14 PM,5/21/2019 3:15:19 PM
+Franke ,,5/21/2019 3:15:19 PM,
+Report Name Portfolio Construction Chart v2.1
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:15:19 PM,
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:15:19 PM,5/21/2019 3:15:28 PM
+Franke ,,5/21/2019 3:15:28 PM,
+Report Name Asset Distribution
+Franke ,Asset Distribution,5/21/2019 3:15:28 PM,
+Franke ,Asset Distribution,5/21/2019 3:15:28 PM,5/21/2019 3:15:35 PM
+Franke ,,5/21/2019 3:15:35 PM,
+Report Name Portfolio Construction Chart v2.1
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:15:35 PM,
+Franke ,Portfolio Construction Chart v2.1,5/21/2019 3:15:35 PM,5/21/2019 3:15:41 PM
+Franke ,,5/21/2019 3:15:41 PM,
+Report Name Asset Distribution
+Franke ,Asset Distribution,5/21/2019 3:15:41 PM,
+Franke ,Asset Distribution,5/21/2019 3:15:41 PM,5/21/2019 3:15:47 PM
+Franke ,,5/21/2019 3:15:47 PM,
+Report Name Private Equity Performance
+Franke ,Private Equity Performance,5/21/2019 3:15:47 PM,

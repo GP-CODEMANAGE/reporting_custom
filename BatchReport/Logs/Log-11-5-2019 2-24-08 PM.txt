@@ -1,0 +1,12 @@
+Start Page Load 11/5/2019 2:24:08 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/5/2019 2:25:05 PM,
+Start Report =11/5/2019 2:25:06 PM
+Get DATATABLE11/5/2019 2:25:15 PM
+DATATABLE End11/5/2019 2:25:16 PM
+Adams Family,,11/5/2019 2:25:16 PM,
+Report Name Capital Markets Review
+Adams Family,,11/5/2019 2:25:16 PM,
+Report Name Long Term Commentary
+Adams Family,,11/5/2019 2:25:16 PM,
+Report Name Absolute Returns

@@ -1,0 +1,71 @@
+Start Page Load 11/5/2019 8:17:51 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/5/2019 8:18:12 PM,
+Start Report =11/5/2019 8:18:14 PM
+Get DATATABLE11/5/2019 8:18:24 PM
+DATATABLE End11/5/2019 8:18:24 PM
+Adams Family,,11/5/2019 8:18:24 PM,
+Report Name Capital Markets Review
+Adams Family,,11/5/2019 8:18:24 PM,
+Report Name Long Term Commentary
+Adams Family,,11/5/2019 8:18:24 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/5/2019 8:18:29 PM,
+Adams Family,Absolute Returns,11/5/2019 8:18:29 PM,11/5/2019 8:18:44 PM
+Adams Family,Coversheet,11/5/2019 8:18:44 PM,
+Adams Family,Absolute Returns,11/5/2019 8:18:44 PM,11/5/2019 8:18:45 PM
+Adams Family,,11/5/2019 8:18:45 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/5/2019 8:18:53 PM,
+Adams Family,Capital Protection,11/5/2019 8:18:53 PM,11/5/2019 8:19:24 PM
+Adams Family,,11/5/2019 8:19:24 PM,
+Report Name Short Term Commentary
+Adams Family,,11/5/2019 8:19:24 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,11/5/2019 8:19:25 PM,
+Adams Family,Short Term Performance,11/5/2019 8:19:25 PM,11/5/2019 8:19:34 PM
+Adams Family,,11/5/2019 8:19:34 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,11/5/2019 8:19:34 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,11/5/2019 8:19:35 PM,
+Adams Family,Marketable Performance,11/5/2019 8:19:35 PM,11/5/2019 8:20:02 PM
+Adams Family,,11/5/2019 8:20:02 PM,
+Report Name Private Equity Commentary
+Adams Family,,11/5/2019 8:20:02 PM,
+Report Name Private Equity Performance
+Adams Family,Private Equity Performance,11/5/2019 8:20:08 PM,
+Adams Family,Private Equity Performance,11/5/2019 8:20:08 PM,11/5/2019 8:20:22 PM
+Adams Family,,11/5/2019 8:20:22 PM,
+Report Name Private Real Assets Commentary
+Adams Family,,11/5/2019 8:20:22 PM,
+Report Name Private Real Assets Performance
+Adams Family,Private Real Assets Performance,11/5/2019 8:20:23 PM,
+Adams Family,Private Real Assets Performance,11/5/2019 8:20:23 PM,11/5/2019 8:20:26 PM
+Adams Family,,11/5/2019 8:20:26 PM,
+Report Name Portfolio Construction Chart v2.1
+Adams Family,Portfolio Construction Chart v2.1,11/5/2019 8:20:27 PM,
+Adams Family,Portfolio Construction Chart v2.1,11/5/2019 8:20:27 PM,11/5/2019 8:20:31 PM
+Adams Family,,11/5/2019 8:20:31 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,11/5/2019 8:20:32 PM,
+Adams Family,Asset Distribution,11/5/2019 8:20:32 PM,11/5/2019 8:20:39 PM
+Adams Family,,11/5/2019 8:20:39 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,11/5/2019 8:20:40 PM,
+Adams Family,Asset Distribution,11/5/2019 8:20:40 PM,11/5/2019 8:20:46 PM
+Adams Family,,11/5/2019 8:20:46 PM,
+Report Name Performance Notes
+Adams Family,,11/5/2019 8:20:46 PM,
+Report Name Appendix
+Adams Family, Merge Coversheet,11/5/2019 8:21:02 PM,
+Adams Family,, Merge Coversheet,,11/5/2019 8:21:02 PM,11/5/2019 8:21:03 PM
+ContactFolderNameAdams Family_Adams IV, William (Q)_9201611/5/2019 8:21:04 PM
+noIndex.TextLabel11/5/2019 8:21:04 PM
+Adams Family, Index,11/5/2019 8:21:07 PM,
+Adams Family,, Index,,11/5/2019 8:21:07 PM,11/5/2019 8:21:08 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191105_201824280-----11/5/2019 9:01:42 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191105_201824280-----11/5/2019 9:01:42 PM
+Report END 11/5/2019 9:01:42 PM
+,Report Genetare End 2,11/5/2019 8:18:12 PM,11/5/2019 9:01:42 PM
+,Report End,11/5/2019 8:17:51 PM,11/5/2019 9:01:46 PM

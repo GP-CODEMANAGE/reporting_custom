@@ -1,0 +1,37 @@
+Start Page Load 11/7/2019 2:24:45 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/7/2019 2:25:03 PM,
+Start Report =11/7/2019 2:25:04 PM
+Get DATATABLE11/7/2019 2:25:10 PM
+DATATABLE End11/7/2019 2:25:11 PM
+Adams Family,,11/7/2019 2:25:11 PM,
+Report Name Capital Markets Review
+Adams Family,,11/7/2019 2:25:11 PM,
+Report Name Long Term Commentary
+Adams Family,,11/7/2019 2:25:11 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/7/2019 2:25:14 PM,
+Adams Family,Absolute Returns,11/7/2019 2:25:14 PM,11/7/2019 2:25:38 PM
+Adams Family,Coversheet,11/7/2019 2:25:38 PM,
+Adams Family,Absolute Returns,11/7/2019 2:25:38 PM,11/7/2019 2:25:40 PM
+Adams Family,,11/7/2019 2:25:40 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/7/2019 2:25:43 PM,
+Month   
+Honore               
+Strategic Benchmark  
+MSCI AC World Index  
+Honor Max Drawdown  
+BenchMarkMax Drawdown  
+MSCI AC World Index Drawdown  
+BenchMarkName  
+MinDate                  
+MaxNavMSCIStartDate  
+MinDrawDownMSCIDate  
+Oct-08  
+-0.0957581019279237  
+                     
+Object reference not set to an instance of an object.11/7/2019 2:26:24 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191107_142510608-----11/7/2019 2:26:32 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191107_142510608-----11/7/2019 2:26:33 PM
+,Report End,11/7/2019 2:24:45 PM,11/7/2019 2:26:34 PM

@@ -1,0 +1,76 @@
+body
+{
+	BACKGROUND-COLOR:white;
+	FONT-FAMILY:Verdana;
+	FONT-SIZE:11px;
+	COLOR:#606060;
+	FONT-WEIGHT:normal;
+	LETTER-SPACING:normal;
+	TEXT-TRANSFORM:none;
+	WORD-SPACING:normal;
+}
+a,a:link,a:active
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif; 
+	font-size:11px; 
+	text-decoration:underline;
+	color:SteelBlue;
+}
+a:visited
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif; 
+	font-size:11px; 
+	text-decoration:underline;
+	color:#551a8b;
+}
+a:hover
+{
+	font-family:Verdana,Arial,Helvetica,sans-serif; 
+	font-size:11px; 
+	text-decoration:underline;
+	color:#FF3300;
+}
+fieldset
+{
+	padding:10px;
+	padding-top:0px;
+}
+legend
+{
+	margin-bottom:10px;
+}
+.PageText
+{
+	FONT-FAMILY:Verdana;
+	FONT-SIZE:11px;
+	COLOR:#606060;
+}
+.PropertyHeader
+{
+	font-family:Verdana;
+	font-size:11px;
+	font-weight:bold;
+	color:#606060;
+	background-color:#dddddd;
+}
+.PropertyValue
+{
+	font-family:Verdana;
+	font-size:11px;
+	COLOR:#606060;
+}
+.Label
+{
+	background-color:SteelBlue;
+	color:White;
+	font-family:Verdana;
+	font-size:11px;
+	padding-left:2px;
+	padding-top:2px;
+}
+.Copyright
+{
+	font-family:Verdana;
+	font-size:11px;
+	COLOR:#606060;
+}

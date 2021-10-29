@@ -1,0 +1,28 @@
+Start Page Load 5/17/2018 7:52:05 PM
+Option selected Approve
+assignRequest4 =5/17/2018 7:52:16 PM
+assignRequest4 =5/17/2018 7:52:17 PM
+,Report Genetare start 1,5/17/2018 7:52:29 PM,
+Start Report =5/17/2018 7:52:40 PM
+Get DATATABLE5/17/2018 7:52:46 PM
+DATATABLE End5/17/2018 7:52:46 PM
+Cretors Family-Bailey A,,5/17/2018 7:52:55 PM,
+Report Name Capital Markets Review
+Cretors Family-Bailey A,,5/17/2018 7:53:14 PM,
+Report Name Short Term Commentary
+Cretors Family-Bailey A,,5/17/2018 7:53:29 PM,
+Report Name Short Term Performance
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 7:53:44 PM,
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 7:53:44 PM,5/17/2018 7:54:30 PM
+Cretors Family-Bailey A,,5/17/2018 7:54:41 PM,
+Report Name Marketable Performance Commentary
+Cretors Family-Bailey A,,5/17/2018 7:54:58 PM,
+Report Name Marketable Performance
+Cretors Family-Bailey A,Marketable Performance,5/17/2018 7:55:13 PM,
+Cretors Family-Bailey A,Marketable Performance,5/17/2018 7:55:13 PM,5/17/2018 7:55:42 PM
+Cretors Family-Bailey A,,5/17/2018 7:55:43 PM,
+Report Name Portfolio Construction Chart v2.1
+Cretors Family-Bailey A,Portfolio Construction Chart v2.1,5/17/2018 7:55:48 PM,
+Report END 5/17/2018 7:57:05 PM
+,Report Genetare End 1,5/17/2018 7:52:29 PM,5/17/2018 7:57:05 PM
+,Report End,5/17/2018 7:52:05 PM,5/17/2018 7:57:11 PM

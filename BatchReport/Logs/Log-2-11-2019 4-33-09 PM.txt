@@ -1,0 +1,55 @@
+Start Page Load 2/11/2019 4:33:09 PM
+Option selected Approve
+,Report Genetare start 1,2/11/2019 4:33:23 PM,
+Start Report =2/11/2019 4:33:25 PM
+Get DATATABLE2/11/2019 4:33:28 PM
+DATATABLE End2/11/2019 4:33:30 PM
+Adams Family,,2/11/2019 4:33:30 PM,
+Report Name Capital Markets Review
+Adams Family,,2/11/2019 4:33:30 PM,
+Report Name Long Term Commentary
+Adams Family,,2/11/2019 4:33:30 PM,
+Report Name Private Real Assets Performance
+Adams Family,Private Real Assets Performance,2/11/2019 4:33:30 PM,
+Adams Family,Private Real Assets Performance,2/11/2019 4:33:30 PM,2/11/2019 4:33:33 PM
+Adams Family,Coversheet,2/11/2019 4:33:33 PM,
+Adams Family,Private Real Assets Performance,2/11/2019 4:33:33 PM,2/11/2019 4:33:34 PM
+Adams Family,,2/11/2019 4:33:34 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,2/11/2019 4:33:34 PM,
+Adams Family,Absolute Returns,2/11/2019 4:33:34 PM,2/11/2019 4:33:45 PM
+Adams Family,,2/11/2019 4:33:45 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,2/11/2019 4:33:45 PM,
+Adams Family,Capital Protection,2/11/2019 4:33:45 PM,2/11/2019 4:34:09 PM
+Adams Family,,2/11/2019 4:34:09 PM,
+Report Name Short Term Commentary
+Adams Family,,2/11/2019 4:34:09 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,2/11/2019 4:34:09 PM,
+Adams Family,Short Term Performance,2/11/2019 4:34:09 PM,2/11/2019 4:34:17 PM
+Adams Family,,2/11/2019 4:34:17 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,2/11/2019 4:34:17 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,2/11/2019 4:34:17 PM,
+Adams Family,Marketable Performance,2/11/2019 4:34:17 PM,2/11/2019 4:34:55 PM
+Adams Family,,2/11/2019 4:34:55 PM,
+Report Name Portfolio Construction Chart v2.1
+Adams Family,Portfolio Construction Chart v2.1,2/11/2019 4:34:55 PM,
+Adams Family,Portfolio Construction Chart v2.1,2/11/2019 4:34:55 PM,2/11/2019 4:35:03 PM
+Adams Family,,2/11/2019 4:35:03 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,2/11/2019 4:35:03 PM,
+Adams Family,Asset Distribution,2/11/2019 4:35:03 PM,2/11/2019 4:35:11 PM
+Adams Family,,2/11/2019 4:35:11 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,2/11/2019 4:35:11 PM,
+Adams Family,Asset Distribution,2/11/2019 4:35:11 PM,2/11/2019 4:35:15 PM
+Adams Family,,2/11/2019 4:35:15 PM,
+Report Name Performance Notes
+Adams Family,,2/11/2019 4:35:15 PM,
+Report Name Appendix
+Report END 2/11/2019 4:35:20 PM
+,Report Genetare End 1,2/11/2019 4:33:23 PM,2/11/2019 4:35:20 PM
+,Report End,2/11/2019 4:33:09 PM,2/11/2019 4:35:21 PM

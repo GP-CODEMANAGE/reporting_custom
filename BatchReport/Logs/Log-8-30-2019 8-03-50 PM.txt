@@ -1,0 +1,25 @@
+Start Page Load 8/30/2019 8:03:50 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,8/30/2019 8:04:57 PM,
+Start Report =8/30/2019 8:04:58 PM
+Get DATATABLE8/30/2019 8:05:05 PM
+DATATABLE End8/30/2019 8:05:06 PM
+Hinchman Family,,8/30/2019 8:05:06 PM,
+Report Name Investment Objective Chart
+Hinchman Family,Investment Objective Chart,8/30/2019 8:05:06 PM,
+Hinchman Family,Investment Objective Chart,8/30/2019 8:05:06 PM,8/30/2019 8:05:08 PM
+Hinchman Family,Coversheet,8/30/2019 8:05:08 PM,
+Hinchman Family,Investment Objective Chart,8/30/2019 8:05:08 PM,8/30/2019 8:05:08 PM
+Hinchman Family,,8/30/2019 8:05:08 PM,
+Report Name Appendix
+Hinchman Family, Merge Coversheet,8/30/2019 8:05:20 PM,
+Hinchman Family,, Merge Coversheet,,8/30/2019 8:05:20 PM,8/30/2019 8:05:25 PM
+ContactFolderNameHinchman Family_Hinchman, David F. (Q)_100148/30/2019 8:05:26 PM
+noIndex.TextLabel8/30/2019 8:05:26 PM
+Hinchman Family, Index,8/30/2019 8:05:28 PM,
+Hinchman Family,, Index,,8/30/2019 8:05:28 PM,8/30/2019 8:05:29 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20190830_200505718-----8/30/2019 8:05:48 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20190830_200505718-----8/30/2019 8:05:50 PM
+Report END 8/30/2019 8:05:52 PM
+,Report Genetare End 2,8/30/2019 8:04:57 PM,8/30/2019 8:05:53 PM
+,Report End,8/30/2019 8:03:50 PM,8/30/2019 8:06:00 PM

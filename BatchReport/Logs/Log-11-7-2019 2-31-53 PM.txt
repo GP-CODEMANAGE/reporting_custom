@@ -1,0 +1,66 @@
+Start Page Load 11/7/2019 2:31:53 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/7/2019 2:32:21 PM,
+Start Report =11/7/2019 2:32:22 PM
+Get DATATABLE11/7/2019 2:32:28 PM
+DATATABLE End11/7/2019 2:32:29 PM
+Adams Family,,11/7/2019 2:32:29 PM,
+Report Name Capital Markets Review
+Adams Family,,11/7/2019 2:32:29 PM,
+Report Name Long Term Commentary
+Adams Family,,11/7/2019 2:32:29 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/7/2019 2:32:31 PM,
+Adams Family,Absolute Returns,11/7/2019 2:32:31 PM,11/7/2019 2:32:42 PM
+Adams Family,Coversheet,11/7/2019 2:32:42 PM,
+Adams Family,Absolute Returns,11/7/2019 2:32:42 PM,11/7/2019 2:32:45 PM
+Adams Family,,11/7/2019 2:32:45 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/7/2019 2:32:47 PM,
+Month   
+Honore               
+Strategic Benchmark  
+MSCI AC World Index  
+Honor Max Drawdown  
+BenchMarkMax Drawdown  
+MSCI AC World Index Drawdown  
+BenchMarkName  
+MinDate                  
+MaxNavMSCIStartDate  
+MinDrawDownMSCIDate  
+Oct-08  
+-0.0957581019279237  
+                     
+-0.1981              
+-0.291719           
+-0.145797063071212     
+-0.52313878689928             
+MSCI AC World  
+01/01/2008 - 02/28/2009  
+01/01/2008           
+02/28/2009           
+Sep-08  
+-0.0859071938008324  
+                     
+-0.125               
+-0.291719           
+-0.145797063071212     
+-0.52313878689928             
+MSCI AC World  
+01/01/2008 - 02/28/2009  
+01/01/2008           
+02/28/2009           
+Feb-09  
+-0.0404652926216009  
+                     
+-0.0979              
+-0.291719           
+-0.145797063071212     
+-0.52313878689928             
+MSCI AC World  
+01/01/2008 - 02/28/2009  
+01/01/2008           
+02/28/2009           
+Database 10 cannot be autostarted during server shutdown or startup.11/7/2019 2:34:10 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191107_143228618-----11/7/2019 2:34:10 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191107_143228618-----11/7/2019 2:34:10 PM

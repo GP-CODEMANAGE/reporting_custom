@@ -1,0 +1,6 @@
+Start Page Load 12/20/2019 1:44:02 PM
+getTaxonomyClientPortal Successfull12/20/2019 1:44:06 PM
+SuccessgetSiteClientList: 12/20/2019 1:45:00 PM
+Success getActiveClientList: 12/20/2019 1:45:22 PM
+Sccess getTaxonomyCorrespondenceType: 12/20/2019 1:45:25 PM
+Load list End12/20/2019 1:44:02 PM

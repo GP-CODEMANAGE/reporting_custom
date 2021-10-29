@@ -1,0 +1,37 @@
+Start Page Load 11/5/2019 2:26:15 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/5/2019 2:27:57 PM,
+Start Report =11/5/2019 2:27:58 PM
+Get DATATABLE11/5/2019 2:28:06 PM
+DATATABLE End11/5/2019 2:28:07 PM
+Adams Family,,11/5/2019 2:28:07 PM,
+Report Name Capital Markets Review
+Adams Family,,11/5/2019 2:28:07 PM,
+Report Name Long Term Commentary
+Adams Family,,11/5/2019 2:28:07 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/5/2019 2:28:09 PM,
+Adams Family,Absolute Returns,11/5/2019 2:28:09 PM,11/5/2019 2:28:25 PM
+Adams Family,Coversheet,11/5/2019 2:28:25 PM,
+Adams Family,Absolute Returns,11/5/2019 2:28:25 PM,11/5/2019 2:28:26 PM
+Adams Family,,11/5/2019 2:28:26 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/5/2019 2:28:27 PM,
+Adams Family,Capital Protection,11/5/2019 2:28:27 PM,11/5/2019 2:29:00 PM
+Adams Family,,11/5/2019 2:29:00 PM,
+Report Name Short Term Commentary
+Adams Family,,11/5/2019 2:29:00 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,11/5/2019 2:29:01 PM,
+Adams Family,Short Term Performance,11/5/2019 2:29:01 PM,11/5/2019 2:29:11 PM
+Adams Family,,11/5/2019 2:29:11 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,11/5/2019 2:29:11 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,11/5/2019 2:29:12 PM,
+Error Occured 11/5/2019 3:25:58 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191105_142806111-----11/5/2019 3:25:58 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191105_142806111-----11/5/2019 3:25:58 PM
+Report END 11/5/2019 3:25:58 PM
+,Report Genetare End 2,11/5/2019 2:27:57 PM,11/5/2019 3:25:58 PM
+,Report End,11/5/2019 2:26:15 PM,11/5/2019 3:26:11 PM

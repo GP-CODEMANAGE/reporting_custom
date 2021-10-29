@@ -1,0 +1,9 @@
+Start Page Load 7/5/2017 5:19:10 PM
+Option selected Approve
+assignRequest3 =7/5/2017 5:21:49 PM
+assignRequest3 =7/5/2017 5:21:53 PM
+,Report Genetare start 1,7/5/2017 5:26:03 PM,
+Start Report =7/5/2017 5:26:03 PM
+Report END 7/5/2017 5:26:06 PM
+,Report Genetare End 1,7/5/2017 5:26:03 PM,7/5/2017 5:26:10 PM
+,Report End,7/5/2017 5:19:10 PM,7/5/2017 5:26:19 PM

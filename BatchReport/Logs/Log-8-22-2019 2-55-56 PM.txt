@@ -1,0 +1,24 @@
+Start Page Load 8/22/2019 2:55:55 PM
+Option selected Insert Cover Letter
+,Report Genetare start ddlAction.SelectedValue == 10,8/22/2019 2:57:06 PM,
+Start Report =8/22/2019 2:57:10 PM
+Get DATATABLE8/22/2019 2:57:45 PM
+DATATABLE End8/22/2019 2:57:47 PM
+Hinchman Family,,8/22/2019 2:57:58 PM,
+Report Name Investment Objective Chart
+Hinchman Family,Investment Objective Chart,8/22/2019 2:58:52 PM,
+Hinchman Family,Investment Objective Chart,8/22/2019 2:58:52 PM,8/22/2019 2:58:59 PM
+Hinchman Family,Coversheet,8/22/2019 2:59:49 PM,
+Hinchman Family,Investment Objective Chart,8/22/2019 2:59:49 PM,8/22/2019 2:59:55 PM
+Hinchman Family,,8/22/2019 3:00:36 PM,
+Report Name Appendix
+Hinchman Family, Merge Coversheet,8/22/2019 3:01:11 PM,
+Hinchman Family,, Merge Coversheet,,8/22/2019 3:01:11 PM,8/22/2019 3:01:38 PM
+ContactFolderNameHinchman Family_Hinchman, David F. (Q)_285738/22/2019 3:01:38 PM
+noIndex.Textcoversheet8/22/2019 3:01:38 PM
+Hinchman Family, Coversheet Index,8/22/2019 3:01:38 PM,
+Object reference not set to an instance of an object.8/22/2019 3:01:38 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20190822_145726292-----8/22/2019 3:01:38 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20190822_145726292-----8/22/2019 3:01:38 PM
+Report END 8/22/2019 3:01:38 PM
+,Report Genetare start ddlAction.SelectedValue == 10,8/22/2019 2:57:06 PM,

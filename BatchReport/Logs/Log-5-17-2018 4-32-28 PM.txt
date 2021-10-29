@@ -1,0 +1,45 @@
+Start Page Load 5/17/2018 4:32:27 PM
+Option selected Approve
+assignRequest4 =5/17/2018 4:34:40 PM
+assignRequest4 =5/17/2018 4:34:41 PM
+,Report Genetare start 1,5/17/2018 4:35:07 PM,
+Start Report =5/17/2018 4:35:09 PM
+Get DATATABLE5/17/2018 4:36:46 PM
+DATATABLE End5/17/2018 4:36:47 PM
+Cretors Family-Bailey A,,5/17/2018 4:36:56 PM,
+Report Name Capital Markets Review
+Cretors Family-Bailey A,,5/17/2018 4:38:24 PM,
+Report Name Short Term Commentary
+Cretors Family-Bailey A,,5/17/2018 4:39:32 PM,
+Report Name Short Term Performance
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 4:39:54 PM,
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 4:39:54 PM,5/17/2018 4:51:13 PM
+Cretors Family-Bailey A,Coversheet,5/17/2018 4:51:21 PM,
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 4:51:21 PM,5/17/2018 4:55:39 PM
+Cretors Family-Bailey A,,5/17/2018 4:55:50 PM,
+Report Name Marketable Performance Commentary
+Cretors Family-Bailey A,,5/17/2018 4:56:48 PM,
+Report Name Marketable Performance
+Cretors Family-Bailey A,Marketable Performance,5/17/2018 4:57:10 PM,
+Cretors Family-Bailey A,Marketable Performance,5/17/2018 4:57:10 PM,5/17/2018 5:02:05 PM
+Cretors Family-Bailey A,,5/17/2018 5:02:55 PM,
+Report Name Portfolio Construction Chart v2.1
+Cretors Family-Bailey A,Portfolio Construction Chart v2.1,5/17/2018 5:03:41 PM,
+Cretors Family-Bailey A,Portfolio Construction Chart v2.1,5/17/2018 5:03:41 PM,5/17/2018 5:16:35 PM
+Cretors Family-Bailey A,,5/17/2018 5:17:44 PM,
+Report Name Asset Distribution
+Cretors Family-Bailey A,Asset Distribution,5/17/2018 5:18:13 PM,
+Cretors Family-Bailey A,Asset Distribution,5/17/2018 5:18:13 PM,5/17/2018 5:22:07 PM
+Cretors Family-Bailey A,,5/17/2018 5:22:15 PM,
+Report Name Performance Notes
+Cretors Family-Bailey A,,5/17/2018 5:22:51 PM,
+Report Name Appendix
+Cretors Family-Bailey A, Merge Coversheet,5/17/2018 5:25:12 PM,
+Cretors Family-Bailey A,, Merge Coversheet,,5/17/2018 5:25:12 PM,5/17/2018 5:26:36 PM
+ContactFolderNameCretors Family_Bailey, Annie (Q)5/17/2018 5:26:38 PM
+noIndex.TextLabel5/17/2018 5:26:38 PM
+Cretors Family-Bailey A, Index,5/17/2018 5:26:42 PM,
+Cretors Family-Bailey A,, Index,,5/17/2018 5:26:42 PM,5/17/2018 5:28:36 PM
+Report END 5/17/2018 5:29:44 PM
+,Report Genetare End 1,5/17/2018 4:35:07 PM,5/17/2018 5:29:47 PM
+,Report End,5/17/2018 4:32:27 PM,5/17/2018 5:37:27 PM

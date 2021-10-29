@@ -1,0 +1,13 @@
+Start Page Load 2/11/2019 4:57:01 PM
+Option selected Approve
+,Report Genetare start 1,2/11/2019 4:57:18 PM,
+Start Report =2/11/2019 4:57:22 PM
+Get DATATABLE2/11/2019 4:57:27 PM
+DATATABLE End2/11/2019 4:57:28 PM
+Cohen Family,,2/11/2019 4:57:28 PM,
+Report Name Portfolio Construction Chart v2.1
+Cohen Family,Portfolio Construction Chart v2.1,2/11/2019 4:57:28 PM,
+Cohen Family,Portfolio Construction Chart v2.1,2/11/2019 4:57:28 PM,2/11/2019 4:59:35 PM
+Report END 2/11/2019 4:59:47 PM
+,Report Genetare End 1,2/11/2019 4:57:18 PM,2/11/2019 4:59:47 PM
+,Report End,2/11/2019 4:57:01 PM,2/11/2019 5:00:24 PM

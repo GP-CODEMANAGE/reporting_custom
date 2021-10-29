@@ -1,0 +1,39 @@
+Start Page Load 11/13/2018 5:01:29 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/13/2018 5:03:15 PM,
+Start Report =11/13/2018 5:03:17 PM
+Get DATATABLE11/13/2018 5:03:47 PM
+DATATABLE End11/13/2018 5:04:02 PM
+Prince Family,,11/13/2018 5:04:12 PM,
+Report Name Capital Markets Review
+Prince Family,Capital Markets Review,11/13/2018 5:05:00 PM,
+Prince Family,Capital Markets Review,11/13/2018 5:05:00 PM,11/13/2018 5:05:07 PM
+Prince Family,Coversheet,11/13/2018 5:05:09 PM,
+Prince Family,Capital Markets Review,11/13/2018 5:05:09 PM,11/13/2018 5:05:10 PM
+Prince Family,,11/13/2018 5:05:10 PM,
+Report Name Long Term Commentary
+Prince Family,Long Term Commentary,11/13/2018 5:05:10 PM,11/13/2018 5:05:17 PM
+Prince Family,,11/13/2018 5:05:17 PM,
+Report Name Absolute Returns
+Prince Family,Absolute Returns,11/13/2018 5:05:17 PM,11/13/2018 5:06:08 PM
+Prince Family,,11/13/2018 5:06:08 PM,
+Report Name Capital Protection
+Prince Family,Capital Protection,11/13/2018 5:06:08 PM,11/13/2018 5:06:16 PM
+Prince Family,,11/13/2018 5:06:16 PM,
+Report Name Short Term Commentary
+Prince Family,Short Term Commentary,11/13/2018 5:06:17 PM,11/13/2018 5:06:25 PM
+Prince Family,,11/13/2018 5:06:25 PM,
+Report Name Short Term Performance
+Prince Family,Short Term Performance,11/13/2018 5:06:25 PM,11/13/2018 5:06:31 PM
+Prince Family,,11/13/2018 5:06:31 PM,
+Report Name Marketable Performance Commentary
+Prince Family,Marketable Performance Commentary,11/13/2018 5:06:31 PM,11/13/2018 5:06:37 PM
+Prince Family,,11/13/2018 5:06:37 PM,
+Report Name Marketable Performance
+Prince Family,Marketable Performance,11/13/2018 5:06:37 PM,11/13/2018 5:06:45 PM
+Prince Family,,11/13/2018 5:06:45 PM,
+Report Name Portfolio Construction Chart v2.1
+Prince Family,Portfolio Construction Chart v2.1,11/13/2018 5:06:45 PM,
+Report END 11/13/2018 5:18:53 PM
+,Report Genetare End 2,11/13/2018 5:03:15 PM,11/13/2018 5:18:57 PM
+,Report End,11/13/2018 5:01:29 PM,11/13/2018 5:19:11 PM

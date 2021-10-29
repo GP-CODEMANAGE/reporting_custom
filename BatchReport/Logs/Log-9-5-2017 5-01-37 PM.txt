@@ -1,0 +1,16 @@
+Start Page Load 9/5/2017 5:01:36 PM
+Option selected Approve
+assignRequest4 =9/5/2017 5:03:19 PM
+assignRequest4 =9/5/2017 5:03:23 PM
+,Report Genetare start 1,9/5/2017 5:03:48 PM,
+Start Report =9/5/2017 5:03:51 PM
+Get DATATABLE9/5/2017 5:04:19 PM
+DATATABLE End9/5/2017 5:04:21 PM
+Gantz Family-Matthew,,9/5/2017 5:04:28 PM,
+Report Name Portfolio Construction Chart v2.1
+Gantz Family-Matthew,Portfolio Construction Chart v2.1,9/5/2017 5:05:24 PM,
+Gantz Family-Matthew,Portfolio Construction Chart v2.1,9/5/2017 5:05:24 PM,9/5/2017 5:05:31 PM
+Gantz Family-Matthew,Coversheet,9/5/2017 5:05:31 PM,
+Report END 9/5/2017 5:05:31 PM
+,Report Genetare End 1,9/5/2017 5:03:48 PM,9/5/2017 5:05:31 PM
+,Report End,9/5/2017 5:01:36 PM,9/5/2017 5:05:33 PM

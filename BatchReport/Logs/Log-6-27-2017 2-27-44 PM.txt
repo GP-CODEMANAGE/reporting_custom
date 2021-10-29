@@ -1,0 +1,18 @@
+Start Page Load 6/27/2017 2:27:44 PM
+Option selected Approve
+,Update Batch,6/27/2017 2:27:46 PM,
+,Update Batch,6/27/2017 2:27:46 PM,6/27/2017 2:27:49 PM
+,Report Genetare start 1,6/27/2017 2:30:10 PM,
+Start Report =6/27/2017 2:30:10 PM
+Get DATATABLE6/27/2017 2:30:13 PM
+DATATABLE End6/27/2017 2:30:15 PM
+Prince Family,,6/27/2017 2:30:15 PM,
+Report Name Capital Markets Review
+Prince Family,,6/27/2017 2:30:15 PM,
+Report Name Long Term Commentary
+Prince Family,,6/27/2017 2:30:15 PM,
+Report Name Capital Protection
+Prince Family,Capital Protection,6/27/2017 2:30:15 PM,
+Report END 6/27/2017 2:30:21 PM
+,Report Genetare End 1,6/27/2017 2:30:10 PM,6/27/2017 2:30:21 PM
+,Report End,6/27/2017 2:27:44 PM,6/27/2017 2:30:27 PM

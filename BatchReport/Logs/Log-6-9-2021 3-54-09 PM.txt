@@ -1,0 +1,37 @@
+Start Page Load 6/9/2021 3:54:09 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,6/9/2021 3:54:23 PM,
+Start Report =6/9/2021 3:54:24 PM
+Get DATATABLE6/9/2021 3:54:29 PM
+DATATABLE End6/9/2021 3:54:29 PM
+Adams Family,,6/9/2021 3:54:29 PM,
+Report Name Capital Markets Review
+Adams Family,,6/9/2021 3:55:09 PM,
+Report Name Long Term Commentary
+Adams Family,,6/9/2021 3:55:41 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,6/9/2021 3:55:46 PM,
+Adams Family,Absolute Returns,6/9/2021 3:55:46 PM,6/9/2021 3:56:15 PM
+Adams Family,Coversheet,6/9/2021 3:56:15 PM,
+Adams Family,Absolute Returns,6/9/2021 3:56:15 PM,6/9/2021 3:56:18 PM
+Adams Family,,6/9/2021 3:56:18 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,6/9/2021 3:56:22 PM,
+Adams Family,Capital Protection,6/9/2021 3:56:22 PM,6/9/2021 3:57:14 PM
+Adams Family,,6/9/2021 3:57:14 PM,
+Report Name Short Term Commentary
+Adams Family,,6/9/2021 3:57:38 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,6/9/2021 3:58:20 PM,
+Adams Family,Short Term Performance,6/9/2021 3:58:20 PM,6/9/2021 3:58:28 PM
+Adams Family,,6/9/2021 3:58:28 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,6/9/2021 3:59:04 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,6/9/2021 3:59:38 PM,
+Error Occured 6/9/2021 4:19:05 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20210609_15542987-----6/9/2021 4:19:05 PM
+FOLDER DELETE--> C:\Personal\Office\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20210609_15542987-----6/9/2021 4:19:05 PM
+Report END 6/9/2021 4:19:05 PM
+,Report Genetare End 2,6/9/2021 3:54:23 PM,6/9/2021 4:19:05 PM
+,Report End,6/9/2021 3:54:09 PM,6/9/2021 4:19:09 PM

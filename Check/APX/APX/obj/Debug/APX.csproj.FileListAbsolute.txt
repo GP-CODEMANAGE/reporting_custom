@@ -1,0 +1,109 @@
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\APX.exe.config
+E:\Devlopment\st LuisTrust\EXE\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+E:\Devlopment\st LuisTrust\EXE\APX\APX\obj\Debug\APX.Form1.resources
+E:\Devlopment\st LuisTrust\EXE\APX\APX\obj\Debug\APX.Properties.Resources.resources
+E:\Devlopment\st LuisTrust\EXE\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\APX.exe
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\APX.pdb
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\EPPlus.dll
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\Microsoft.Crm.Sdk.dll
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\Devlopment\st LuisTrust\EXE\APX\APX\bin\Debug\Spire.XLS.dll
+E:\Devlopment\st LuisTrust\EXE\APX\APX\obj\Debug\APX.exe
+E:\Devlopment\st LuisTrust\EXE\APX\APX\obj\Debug\APX.pdb
+C:\Users\svaity\Desktop\12_1\APX\APX\bin\Debug\APX.exe.config
+C:\Users\svaity\Desktop\12_1\APX\APX\obj\Debug\APX.exe
+C:\Users\svaity\Desktop\12_1\APX\APX\obj\Debug\APX.pdb
+C:\Users\svaity\Desktop\12_1\APX\APX\bin\Debug\APX.exe
+C:\Users\svaity\Desktop\12_1\APX\APX\bin\Debug\APX.pdb
+C:\Users\svaity\Desktop\12_1\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+C:\Users\svaity\Desktop\12_1\APX\APX\obj\Debug\APX.Form1.resources
+C:\Users\svaity\Desktop\12_1\APX\APX\obj\Debug\APX.Properties.Resources.resources
+C:\Users\svaity\Desktop\12_1\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\APX.exe.config
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\obj\Debug\APX.exe
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\obj\Debug\APX.pdb
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\obj\Debug\APX.Form1.resources
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\obj\Debug\APX.Properties.Resources.resources
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\APX.exe
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\APX.pdb
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\Spire.Common.dll
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\Spire.License.dll
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\Spire.Pdf.dll
+C:\Users\svaity\Desktop\12_13_2017\APX\APX\bin\Debug\Spire.XLS.dll
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\APX.exe.config
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\APX.pdb
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\EPPlus.dll
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\Microsoft.Crm.Sdk.dll
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\Devlopment\GP\EXE\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\Devlopment\GP\EXE\APX\APX\obj\Debug\APX.Form1.resources
+E:\Devlopment\GP\EXE\APX\APX\obj\Debug\APX.Properties.Resources.resources
+E:\Devlopment\GP\EXE\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+E:\Devlopment\GP\EXE\APX\APX\obj\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\APX\obj\Debug\APX.pdb
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\bin\Debug\APX.exe.config
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\obj\Debug\APX.exe
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\obj\Debug\APX.pdb
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\bin\Debug\APX.exe
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\bin\Debug\APX.pdb
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\obj\Debug\APX.Form1.resources
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\obj\Debug\APX.Properties.Resources.resources
+D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\EXE GPCRM1\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\APX.exe.config
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\obj\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\obj\Debug\APX.pdb
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\obj\Debug\APX.Form1.resources
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\obj\Debug\APX.Properties.Resources.resources
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\APX.pdb
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\EPPlus.dll
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\Microsoft.Crm.Sdk.dll
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\Devlopment\GP\EXE\APX\APx new\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\Devlopment\GP\EXE\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+E:\Devlopment\GP\EXE\APX\Test\APX\bin\Debug\APX.exe.config
+E:\Devlopment\GP\EXE\APX\Test\APX\obj\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\Test\APX\obj\Debug\APX.pdb
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\APX.exe.config
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\obj\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\obj\Debug\APX.pdb
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\APX.exe
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\APX.pdb
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\EPPlus.dll
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\Microsoft.Crm.Sdk.dll
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\obj\Debug\APX.Form1.resources
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\obj\Debug\APX.Properties.Resources.resources
+E:\Devlopment\GP\EXE\APX\Test\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+D:\App\Gresham Partners\Upgrade to CRM 2016\EXE CODE\CRM-1\APX\APX\bin\Debug\APX.exe.config
+D:\App\Gresham Partners\Upgrade to CRM 2016\EXE CODE\CRM-1\APX\APX\obj\Debug\APX.exe
+D:\App\Gresham Partners\Upgrade to CRM 2016\EXE CODE\CRM-1\APX\APX\obj\Debug\APX.pdb
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\bin\Debug\APX.exe.config
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\obj\Debug\APX.exe
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\obj\Debug\APX.pdb
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\bin\Debug\APX.exe
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\bin\Debug\APX.pdb
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\bin\Debug\Microsoft.Xrm.Sdk.dll
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\obj\Debug\APX.Form1.resources
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\obj\Debug\APX.Properties.Resources.resources
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\bin\Debug\APX.exe.config
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\obj\Debug\APX.exe
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\obj\Debug\APX.pdb
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\bin\Debug\APX.exe
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\bin\Debug\APX.pdb
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\obj\Debug\APX.csprojResolveAssemblyReference.cache
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\obj\Debug\APX.Form1.resources
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\obj\Debug\APX.Properties.Resources.resources
+F:\Brijesh data\Development New\Gresham Partners\EXE For IFD\Prod_EXE\APX\APX\obj\Debug\APX.csproj.GenerateResource.Cache

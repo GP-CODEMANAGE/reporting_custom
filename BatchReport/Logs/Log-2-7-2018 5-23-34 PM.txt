@@ -1,0 +1,17 @@
+Start Page Load 2/7/2018 5:23:34 PM
+Option selected Approve
+assignRequest4 =2/7/2018 5:23:45 PM
+assignRequest4 =2/7/2018 5:23:49 PM
+,Report Genetare start 1,2/7/2018 5:23:55 PM,
+Start Report =2/7/2018 5:23:55 PM
+Get DATATABLE2/7/2018 5:24:19 PM
+DATATABLE End2/7/2018 5:24:21 PM
+Eterovic Family,,2/7/2018 5:24:32 PM,
+Report Name Capital Markets Review
+Eterovic Family,,2/7/2018 6:36:49 PM,
+Report Name Long Term Commentary
+Eterovic Family,,2/7/2018 6:36:49 PM,
+Report Name Capital Protection
+Eterovic Family,Capital Protection,2/7/2018 6:36:49 PM,
+Report END 2/7/2018 6:37:06 PM
+,Report Genetare End 1,2/7/2018 5:23:55 PM,2/7/2018 6:37:06 PM

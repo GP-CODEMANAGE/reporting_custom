@@ -1,0 +1,16 @@
+Start Page Load 6/9/2021 3:49:34 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,6/9/2021 3:49:48 PM,
+Start Report =6/9/2021 3:49:52 PM
+Get DATATABLE6/9/2021 3:49:56 PM
+DATATABLE End6/9/2021 3:49:56 PM
+Adams Family,,6/9/2021 3:49:56 PM,
+Report Name Capital Markets Review
+Adams Family,Capital Markets Review,6/9/2021 3:52:25 PM,
+Value cannot be null.
+Parameter name: path6/9/2021 3:53:41 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20210609_154956261-----6/9/2021 3:53:45 PM
+FOLDER DELETE--> C:\Personal\Office\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20210609_154956261-----6/9/2021 3:53:47 PM
+Report END 6/9/2021 3:53:49 PM
+,Report Genetare End 2,6/9/2021 3:49:48 PM,6/9/2021 3:53:51 PM
+,Report End,6/9/2021 3:49:34 PM,6/9/2021 3:53:59 PM

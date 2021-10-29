@@ -1,0 +1,29 @@
+Start Page Load 5/18/2018 5:06:29 PM
+Option selected Approve
+assignRequest4 =5/18/2018 5:06:45 PM
+assignRequest4 =5/18/2018 5:06:46 PM
+,Report Genetare start 1,5/18/2018 5:06:50 PM,
+Start Report =5/18/2018 5:06:50 PM
+Get DATATABLE5/18/2018 5:07:07 PM
+DATATABLE End5/18/2018 5:07:08 PM
+Chris and Samara Petty ,,5/18/2018 5:07:21 PM,
+Report Name Portfolio Construction Chart v2.1
+Chris and Samara Petty ,Portfolio Construction Chart v2.1,5/18/2018 5:08:29 PM,
+Chris and Samara Petty ,Portfolio Construction Chart v2.1,5/18/2018 5:08:29 PM,5/18/2018 5:09:58 PM
+Chris and Samara Petty ,Coversheet,5/18/2018 5:10:24 PM,
+Chris and Samara Petty ,Portfolio Construction Chart v2.1,5/18/2018 5:10:24 PM,5/18/2018 6:15:43 PM
+Chris and Samara Petty ,,5/18/2018 6:15:43 PM,
+Report Name Asset Distribution
+Chris and Samara Petty ,Asset Distribution,5/18/2018 6:15:43 PM,
+Chris and Samara Petty ,Asset Distribution,5/18/2018 6:15:43 PM,5/18/2018 6:15:46 PM
+Chris and Samara Petty ,,5/18/2018 6:15:46 PM,
+Report Name Appendix
+Chris and Samara Petty , Merge Coversheet,5/18/2018 6:15:52 PM,
+Chris and Samara Petty ,, Merge Coversheet,,5/18/2018 6:15:52 PM,5/18/2018 6:15:52 PM
+ContactFolderNameTemple, John Family_Petty, Christopher (Q)5/18/2018 6:15:52 PM
+noIndex.TextLabel5/18/2018 6:15:52 PM
+Chris and Samara Petty , Index,5/18/2018 6:15:52 PM,
+Chris and Samara Petty ,, Index,,5/18/2018 6:15:52 PM,5/18/2018 6:15:52 PM
+Report END 5/18/2018 6:15:53 PM
+,Report Genetare End 1,5/18/2018 5:06:50 PM,5/18/2018 6:15:53 PM
+,Report End,5/18/2018 5:06:29 PM,5/18/2018 6:15:58 PM

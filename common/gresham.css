@@ -1,0 +1,51 @@
+
+body  {
+	font-family:Frutiger 55 Roman;
+	font-size:12pt;
+
+
+}
+input,select
+{
+	font-family:Frutiger 55 Roman;
+	font-size:12pt;
+	 
+}
+span
+{
+	font-family:Frutiger 55 Roman;
+	font-size:12pt;
+}
+.Title
+{
+	font-family:Frutiger 55 Roman;
+	font-size:12pt;
+	font-weight:normal;
+	text-decoration:none;
+	 
+}
+.Titlebig
+{
+	font-family:Frutiger 55 Roman;
+	font-size:14pt;
+	font-weight:normal;
+	text-decoration:none;
+}
+.dummy
+{
+	 
+}
+.dummyheader
+{
+	 
+}
+.BackgroundColor
+{
+	background-color:#F0F0F0;
+}
+ @media print {
+      
+
+
+      .noprint { display: none; }
+    }

@@ -1,0 +1,27 @@
+FontName (Frutiger-BoldItalic)
+FullName (Frutiger 66 Bold Italic)
+AppleName (Frutiger 66 BoldItalic)
+AppleFONDID 14708
+FamilyName (Frutiger)
+version (001.002)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle -12
+CapHeight 698
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 140
+Serif false
+Pi false
+SuperiorBaseline 282
+MSMenuName (Frutiger 45 Light)
+VPMenuName (Frutiger 45 Light)
+WORDMenuName (Frutiger45Light)
+VPTypefaceID 84
+VPStyle (T)
+PCFileNamePrefix (FTBI_)
+PCLTypefaceID 20657
+PCLStrokeWeight 3
+PCLStyle 1
+

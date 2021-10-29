@@ -1,0 +1,5 @@
+Start Page Load 11/7/2019 5:28:08 PM
+|Month   |Honore               |Strategic Benchmark  |MSCI AC World Index  |Honor Max Drawdown  |BenchMarkMax Drawdown  |MSCI AC World Index Drawdown  |BenchMarkName  |MinDate                  |MaxNavMSCIStartDate  |MinDrawDownMSCIDate  
+|Oct-08  |-0.0842315072401419  |                     |-0.1981              |-0.287786           |-0.153989014218004     |-0.549275254335378            |MSCI AC World  |11/01/2007 - 02/28/2009  |11/01/2007           |02/28/2009           
+|Sep-08  |-0.0793663361769528  |                     |-0.125               |-0.287786           |-0.153989014218004     |-0.549275254335378            |MSCI AC World  |11/01/2007 - 02/28/2009  |11/01/2007           |02/28/2009           
+|Feb-09  |-0.0439043421851517  |                     |-0.0979              |-0.287786           |-0.153989014218004     |-0.549275254335378            |MSCI AC World  |11/01/2007 - 02/28/2009  |11/01/2007           |02/28/2009           

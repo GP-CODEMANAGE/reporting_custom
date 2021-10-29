@@ -1,0 +1,7 @@
+ <asp:GridView SkinID="gvReportSkin" runat="server"  CellPadding="1" Font-Bold="False" Font-Names="Frutiger 55 Roman" Font-Size="8pt" GridLines="None" >
+    <Columns>
+    </Columns>    
+    <RowStyle    Height="16px" VerticalAlign="Top" />
+    <HeaderStyle Font-Names="Frutiger 55 Roman"   Font-Size="9pt"   Height="25px" BorderStyle="Solid" BorderWidth="1px"  />
+</asp:GridView>
+ 

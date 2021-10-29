@@ -1,0 +1,115 @@
+Start Page Load 11/7/2019 3:03:12 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/7/2019 3:03:31 PM,
+Start Report =11/7/2019 3:03:32 PM
+Get DATATABLE11/7/2019 3:03:38 PM
+DATATABLE End11/7/2019 3:03:40 PM
+Adams Family,,11/7/2019 3:03:40 PM,
+Report Name Capital Markets Review
+Adams Family,,11/7/2019 3:03:40 PM,
+Report Name Long Term Commentary
+Adams Family,,11/7/2019 3:03:40 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/7/2019 3:03:41 PM,
+Adams Family,Absolute Returns,11/7/2019 3:03:41 PM,11/7/2019 3:04:39 PM
+Adams Family,Coversheet,11/7/2019 3:04:39 PM,
+Adams Family,Absolute Returns,11/7/2019 3:04:39 PM,11/7/2019 3:04:40 PM
+Adams Family,,11/7/2019 3:04:40 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/7/2019 3:04:43 PM,
+|Month
+|Honore
+|Strategic Benchmark
+|MSCI AC World Index
+|Honor Max Drawdown
+|BenchMarkMax Drawdown
+|MSCI AC World Index Drawdown
+|BenchMarkName
+|MinDate
+|MaxNavMSCIStartDate
+|MinDrawDownMSCIDate
+|Oct-08
+|-0.0957581019279237
+|
+|-0.1981
+|-0.291719
+|-0.145797063071212
+|-0.52313878689928
+|MSCI AC World
+|01/01/2008 - 02/28/2009
+|01/01/2008
+|02/28/2009
+|Sep-08
+|-0.0859071938008324
+|
+|-0.125
+|-0.291719
+|-0.145797063071212
+|-0.52313878689928
+|MSCI AC World
+|01/01/2008 - 02/28/2009
+|01/01/2008
+|02/28/2009
+|Feb-09
+|-0.0404652926216009
+|
+|-0.0979
+|-0.291719
+|-0.145797063071212
+|-0.52313878689928
+|MSCI AC World
+|01/01/2008 - 02/28/2009
+|01/01/2008
+|02/28/2009
+Adams Family,Capital Protection,11/7/2019 3:04:43 PM,11/7/2019 3:08:13 PM
+Adams Family,,11/7/2019 3:08:21 PM,
+Report Name Short Term Commentary
+Adams Family,,11/7/2019 3:08:21 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,11/7/2019 3:08:27 PM,
+Adams Family,Short Term Performance,11/7/2019 3:08:27 PM,11/7/2019 3:08:31 PM
+Adams Family,,11/7/2019 3:08:31 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,11/7/2019 3:08:31 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,11/7/2019 3:08:33 PM,
+Adams Family,Marketable Performance,11/7/2019 3:08:33 PM,11/7/2019 3:11:59 PM
+Adams Family,,11/7/2019 3:11:59 PM,
+Report Name Private Equity Commentary
+Adams Family,,11/7/2019 3:11:59 PM,
+Report Name Private Equity Performance
+Adams Family,Private Equity Performance,11/7/2019 3:12:02 PM,
+Adams Family,Private Equity Performance,11/7/2019 3:12:02 PM,11/7/2019 3:12:02 PM
+Adams Family,,11/7/2019 3:12:02 PM,
+Report Name Private Real Assets Commentary
+Adams Family,,11/7/2019 3:12:02 PM,
+Report Name Private Real Assets Performance
+Adams Family,Private Real Assets Performance,11/7/2019 3:12:03 PM,
+Adams Family,Private Real Assets Performance,11/7/2019 3:12:03 PM,11/7/2019 3:12:04 PM
+Adams Family,,11/7/2019 3:12:04 PM,
+Report Name Portfolio Construction Chart v2.1
+Adams Family,Portfolio Construction Chart v2.1,11/7/2019 3:12:04 PM,
+Adams Family,Portfolio Construction Chart v2.1,11/7/2019 3:12:04 PM,11/7/2019 3:12:55 PM
+Adams Family,,11/7/2019 3:12:55 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,11/7/2019 3:12:56 PM,
+Adams Family,Asset Distribution,11/7/2019 3:12:56 PM,11/7/2019 3:13:07 PM
+Adams Family,,11/7/2019 3:13:07 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,11/7/2019 3:13:08 PM,
+Adams Family,Asset Distribution,11/7/2019 3:13:08 PM,11/7/2019 3:13:14 PM
+Adams Family,,11/7/2019 3:13:14 PM,
+Report Name Performance Notes
+Adams Family,,11/7/2019 3:13:14 PM,
+Report Name Appendix
+Adams Family, Merge Coversheet,11/7/2019 3:13:28 PM,
+Adams Family,, Merge Coversheet,,11/7/2019 3:13:28 PM,11/7/2019 3:13:29 PM
+ContactFolderNameAdams Family_Adams IV, William (Q)_6457011/7/2019 3:13:31 PM
+noIndex.TextLabel11/7/2019 3:13:31 PM
+Adams Family, Index,11/7/2019 3:13:32 PM,
+Adams Family,, Index,,11/7/2019 3:13:32 PM,11/7/2019 3:13:33 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191107_150338442-----11/7/2019 3:13:50 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191107_150338442-----11/7/2019 3:13:52 PM
+Report END 11/7/2019 3:13:53 PM
+,Report Genetare End 2,11/7/2019 3:03:31 PM,11/7/2019 3:13:54 PM
+,Report End,11/7/2019 3:03:12 PM,11/7/2019 3:14:02 PM

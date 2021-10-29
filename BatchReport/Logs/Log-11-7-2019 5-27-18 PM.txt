@@ -1,0 +1,5 @@
+Start Page Load 11/7/2019 5:27:18 PM
+|Month   |Honore               |Strategic Benchmark  |MSCI AC World Index  |Honor Max Drawdown  |BenchMarkMax Drawdown  |MSCI AC World Index Drawdown  |BenchMarkName  |MinDate                  |MaxNavMSCIStartDate  |MinDrawDownMSCIDate  
+|02/28/2009           
+|02/28/2009           
+|02/28/2009           

@@ -1,0 +1,12 @@
+Start Page Load 11/13/2018 1:49:41 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/13/2018 1:49:45 PM,
+Start Report =11/13/2018 1:49:47 PM
+Get DATATABLE11/13/2018 1:49:54 PM
+DATATABLE End11/13/2018 1:49:54 PM
+Prince Family,,11/13/2018 1:49:54 PM,
+Report Name Capital Markets Review
+Prince Family,Capital Markets Review,11/13/2018 1:49:54 PM,
+Report END 11/13/2018 1:50:51 PM
+,Report Genetare End 2,11/13/2018 1:49:45 PM,11/13/2018 1:50:51 PM
+,Report End,11/13/2018 1:49:41 PM,11/13/2018 1:50:52 PM

@@ -1,0 +1,34 @@
+Start Page Load 9/18/2019 3:28:36 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,9/18/2019 3:30:22 PM,
+Start Report =9/18/2019 3:30:26 PM
+Get DATATABLE9/18/2019 3:30:43 PM
+DATATABLE End9/18/2019 3:30:45 PM
+Adams Family-Masa TEST J,,9/18/2019 3:30:45 PM,
+Report Name Absolute Returns
+Adams Family-Masa TEST J,Absolute Returns,9/18/2019 3:30:45 PM,
+Adams Family-Masa TEST J,Absolute Returns,9/18/2019 3:30:45 PM,9/18/2019 3:31:00 PM
+Adams Family-Masa TEST J,Coversheet,9/18/2019 3:31:00 PM,
+Adams Family-Masa TEST J,Absolute Returns,9/18/2019 3:31:00 PM,9/18/2019 3:31:01 PM
+Adams Family-Masa TEST J,,9/18/2019 3:31:01 PM,
+Report Name Capital Protection
+Adams Family-Masa TEST J,Capital Protection,9/18/2019 3:31:01 PM,
+Adams Family-Masa TEST J,Capital Protection,9/18/2019 3:31:01 PM,9/18/2019 3:31:34 PM
+Adams Family-Masa TEST J,,9/18/2019 3:31:34 PM,
+Report Name Short Term Performance
+Adams Family-Masa TEST J,Short Term Performance,9/18/2019 3:31:34 PM,
+Adams Family-Masa TEST J,Short Term Performance,9/18/2019 3:31:34 PM,9/18/2019 3:31:41 PM
+Adams Family-Masa TEST J,,9/18/2019 3:31:41 PM,
+Report Name Marketable Performance
+Adams Family-Masa TEST J,Marketable Performance,9/18/2019 3:31:41 PM,
+Adams Family-Masa TEST J,Marketable Performance,9/18/2019 3:31:41 PM,9/18/2019 3:31:44 PM
+Adams Family-Masa TEST J,Merge,9/18/2019 3:33:44 PM,
+Adams Family-Masa TEST J,,Merge,,9/18/2019 3:33:44 PM,9/18/2019 3:33:44 PM
+ContactFolderNameAdams Family_Masa TEST, Jeanne (MTGBK)_877739/18/2019 3:33:44 PM
+noIndex.TextLabel9/18/2019 3:33:44 PM
+Adams Family-Masa TEST J,,MTGBK Index,,9/18/2019 3:33:44 PM,9/18/2019 3:33:44 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20190918_153043699-----9/18/2019 3:33:48 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20190918_153043699-----9/18/2019 3:33:48 PM
+Report END 9/18/2019 3:33:48 PM
+,Report Genetare End 2,9/18/2019 3:30:22 PM,9/18/2019 3:33:48 PM
+,Report End,9/18/2019 3:28:36 PM,9/18/2019 3:33:54 PM

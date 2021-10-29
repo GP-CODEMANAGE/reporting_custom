@@ -1,0 +1,23 @@
+Start Page Load 11/7/2019 1:58:18 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/7/2019 1:58:39 PM,
+Start Report =11/7/2019 1:58:40 PM
+Get DATATABLE11/7/2019 1:58:47 PM
+DATATABLE End11/7/2019 1:58:49 PM
+Adams Family,,11/7/2019 1:58:49 PM,
+Report Name Capital Markets Review
+Adams Family,,11/7/2019 1:58:50 PM,
+Report Name Long Term Commentary
+Adams Family,,11/7/2019 1:58:50 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/7/2019 1:58:52 PM,
+Adams Family,Absolute Returns,11/7/2019 1:58:52 PM,11/7/2019 1:59:23 PM
+Adams Family,Coversheet,11/7/2019 1:59:23 PM,
+Adams Family,Absolute Returns,11/7/2019 1:59:23 PM,11/7/2019 1:59:28 PM
+Adams Family,,11/7/2019 1:59:28 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/7/2019 1:59:30 PM,
+Object reference not set to an instance of an object.11/7/2019 2:00:42 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191107_135847340-----11/7/2019 2:00:42 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191107_135847340-----11/7/2019 2:00:42 PM
+,Report End,11/7/2019 1:58:18 PM,11/7/2019 2:00:44 PM

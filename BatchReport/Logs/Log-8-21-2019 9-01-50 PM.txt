@@ -1,0 +1,13 @@
+Start Page Load 8/21/2019 9:01:50 PM
+Option selected Approve
+,Report Genetare start 1,8/21/2019 9:02:10 PM,
+Start Report =8/21/2019 9:02:10 PM
+Get DATATABLE8/21/2019 9:02:14 PM
+DATATABLE End8/21/2019 9:02:16 PM
+Gantz Family,,8/21/2019 9:02:16 PM,
+Report Name Capital Markets Review
+Gantz Family,,8/21/2019 9:02:16 PM,
+Report Name Long Term Commentary
+Gantz Family,,8/21/2019 9:02:16 PM,
+Report Name Absolute Returns
+Gantz Family,Absolute Returns,8/21/2019 9:02:16 PM,

@@ -1,0 +1,6 @@
+--------------------------------
+started for Masa Test Family | Masa, Jeanne (Q)9/25/2017 1:50:20 PM
+--------------------------------
+QuerySP_S_BATCH @BatchIdListTxt='423a54e8-eb44-e011-81e9-0019b9e7ee05',@PriorDT=null,@EndDT='6/30/2017',@NoComparisonLineFlg=False
+completed Masa Test Family | Masa, Jeanne (Q)9/25/2017 1:51:37 PM
+---------------------------------------True

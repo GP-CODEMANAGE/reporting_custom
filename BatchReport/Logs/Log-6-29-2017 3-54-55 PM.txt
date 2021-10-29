@@ -1,0 +1,28 @@
+Start Page Load 6/29/2017 3:54:54 PM
+Option selected Approve
+,Update Batch,6/29/2017 3:56:04 PM,
+,Batch ID,3f1941cb-692b-e711-9422-005056a0567e,6/29/2017 3:56:12 PM
+,ssi_holdreport is nullll,0,6/29/2017 3:56:12 PM
+,Before UPDATE,0,6/29/2017 3:56:12 PM
+,AFTER UPDATE is nullll,0,6/29/2017 3:56:14 PM
+,Update Batch,6/29/2017 3:56:04 PM,6/29/2017 3:56:18 PM
+Before lopp6/29/2017 3:56:38 PM
+Region Insert Batch Review Details6/29/2017 3:56:52 PM
+gg lopp6/29/2017 3:57:19 PM
+objMailRecords 14506/29/2017 3:58:04 PM
+objMailRecords Updated 14516/29/2017 3:58:10 PM
+Region DisAssociate Details6/29/2017 3:58:15 PM
+Before BatchReportStatus =6/29/2017 3:58:46 PM
+After BatchReportStatus =6/29/2017 3:59:01 PM
+Before update objBatch =6/29/2017 3:59:01 PM
+After update objBatch =6/29/2017 3:59:01 PM
+,Report Genetare start 1,6/29/2017 3:59:19 PM,
+Start Report =6/29/2017 3:59:21 PM
+Get DATATABLE6/29/2017 3:59:58 PM
+DATATABLE End6/29/2017 4:00:26 PM
+Owen, Anthony Family,,6/29/2017 4:00:36 PM,
+Report Name Portfolio Construction Chart v2.1
+Owen, Anthony Family,Portfolio Construction Chart v2.1,6/29/2017 4:01:59 PM,
+Report END 6/29/2017 4:02:36 PM
+,Report Genetare End 1,6/29/2017 3:59:19 PM,6/29/2017 4:02:39 PM
+,Report End,6/29/2017 3:54:54 PM,6/29/2017 4:03:23 PM

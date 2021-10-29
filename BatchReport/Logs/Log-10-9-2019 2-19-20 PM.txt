@@ -1,0 +1,46 @@
+Start Page Load 10/9/2019 2:19:20 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,10/9/2019 2:19:41 PM,
+Start Report =10/9/2019 2:19:41 PM
+Get DATATABLE10/9/2019 2:19:49 PM
+DATATABLE End10/9/2019 2:19:50 PM
+Baird Family,,10/9/2019 2:19:50 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:19:50 PM,
+Baird Family,Asset Distribution,10/9/2019 2:19:50 PM,10/9/2019 2:19:54 PM
+Baird Family,Coversheet,10/9/2019 2:19:54 PM,
+Baird Family,Asset Distribution,10/9/2019 2:19:54 PM,10/9/2019 2:19:54 PM
+Baird Family,,10/9/2019 2:19:54 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:19:54 PM,
+Baird Family,Asset Distribution,10/9/2019 2:19:54 PM,10/9/2019 2:19:58 PM
+Baird Family,,10/9/2019 2:19:58 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:19:58 PM,
+Baird Family,Asset Distribution,10/9/2019 2:19:58 PM,10/9/2019 2:20:01 PM
+Baird Family,,10/9/2019 2:20:01 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:20:01 PM,
+Baird Family,Asset Distribution,10/9/2019 2:20:01 PM,10/9/2019 2:20:04 PM
+Baird Family,,10/9/2019 2:20:04 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:20:04 PM,
+Baird Family,Asset Distribution,10/9/2019 2:20:04 PM,10/9/2019 2:20:07 PM
+Baird Family,,10/9/2019 2:20:07 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:20:07 PM,
+Baird Family,Asset Distribution,10/9/2019 2:20:07 PM,10/9/2019 2:20:10 PM
+Baird Family,,10/9/2019 2:20:10 PM,
+Report Name Asset Distribution
+Baird Family,Asset Distribution,10/9/2019 2:20:10 PM,
+Baird Family,Asset Distribution,10/9/2019 2:20:10 PM,10/9/2019 2:20:12 PM
+Baird Family,Merge,10/9/2019 2:20:14 PM,
+Baird Family,,Merge,,10/9/2019 2:20:14 PM,10/9/2019 2:20:14 PM
+ContactFolderNameBaird Family_Baird, Stephen W. (MTGBK)_1249010/9/2019 2:20:14 PM
+noIndex.TextLabel10/9/2019 2:20:14 PM
+Baird Family,,MTGBK Index,,10/9/2019 2:20:14 PM,10/9/2019 2:20:14 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191009_14194944-----10/9/2019 2:20:18 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191009_14194944-----10/9/2019 2:20:18 PM
+Report END 10/9/2019 2:20:18 PM
+,Report Genetare End 2,10/9/2019 2:19:41 PM,10/9/2019 2:20:18 PM
+,Report End,10/9/2019 2:19:20 PM,10/9/2019 2:20:20 PM

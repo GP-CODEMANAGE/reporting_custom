@@ -1,0 +1,55 @@
+Start Page Load 2/7/2018 4:46:48 PM
+Option selected Approve
+assignRequest4 =2/7/2018 4:48:52 PM
+assignRequest4 =2/7/2018 4:48:59 PM
+,Report Genetare start 1,2/7/2018 4:49:14 PM,
+Start Report =2/7/2018 4:49:16 PM
+Get DATATABLE2/7/2018 4:50:02 PM
+DATATABLE End2/7/2018 4:50:17 PM
+Eterovic Family,,2/7/2018 4:50:40 PM,
+Report Name Capital Markets Review
+Eterovic Family,,2/7/2018 4:52:24 PM,
+Report Name Long Term Commentary
+Eterovic Family,,2/7/2018 4:52:24 PM,
+Report Name Capital Protection
+Eterovic Family,Capital Protection,2/7/2018 4:52:24 PM,
+Eterovic Family,Capital Protection,2/7/2018 4:52:24 PM,2/7/2018 4:53:49 PM
+Eterovic Family,Coversheet,2/7/2018 4:53:49 PM,
+Eterovic Family,Capital Protection,2/7/2018 4:53:49 PM,2/7/2018 4:53:50 PM
+Eterovic Family,,2/7/2018 4:53:50 PM,
+Report Name Absolute Returns
+Eterovic Family,Absolute Returns,2/7/2018 4:53:50 PM,
+Eterovic Family,Absolute Returns,2/7/2018 4:53:50 PM,2/7/2018 4:54:26 PM
+Eterovic Family,,2/7/2018 4:54:26 PM,
+Report Name Short Term Commentary
+Eterovic Family,,2/7/2018 4:54:26 PM,
+Report Name Short Term Performance
+Eterovic Family,Short Term Performance,2/7/2018 4:54:26 PM,
+Eterovic Family,Short Term Performance,2/7/2018 4:54:26 PM,2/7/2018 4:54:41 PM
+Eterovic Family,,2/7/2018 4:54:41 PM,
+Report Name Marketable Performance Commentary
+Eterovic Family,,2/7/2018 4:54:41 PM,
+Report Name Marketable Performance
+Eterovic Family,Marketable Performance,2/7/2018 4:54:41 PM,
+Eterovic Family,Marketable Performance,2/7/2018 4:54:41 PM,2/7/2018 4:54:49 PM
+Eterovic Family,,2/7/2018 4:54:49 PM,
+Report Name Portfolio Construction Chart v2.1
+Eterovic Family,Portfolio Construction Chart v2.1,2/7/2018 4:54:49 PM,
+Eterovic Family,Portfolio Construction Chart v2.1,2/7/2018 4:54:49 PM,2/7/2018 4:54:52 PM
+Eterovic Family,,2/7/2018 4:54:52 PM,
+Report Name Asset Distribution
+Eterovic Family,Asset Distribution,2/7/2018 4:54:52 PM,
+Eterovic Family,Asset Distribution,2/7/2018 4:54:52 PM,2/7/2018 4:54:57 PM
+Eterovic Family,,2/7/2018 4:54:57 PM,
+Report Name Performance Notes
+Eterovic Family,,2/7/2018 4:54:57 PM,
+Report Name Appendix
+Eterovic Family, Merge Coversheet,2/7/2018 4:58:19 PM,
+Eterovic Family,, Merge Coversheet,,2/7/2018 4:58:19 PM,2/7/2018 4:59:21 PM
+ContactFolderNameEterovic Family_Eterovic, Cedomir (Q)2/7/2018 4:59:22 PM
+noIndex.TextLabel2/7/2018 4:59:23 PM
+Eterovic Family, Index,2/7/2018 4:59:26 PM,
+Eterovic Family,, Index,,2/7/2018 4:59:26 PM,2/7/2018 5:00:16 PM
+Report END 2/7/2018 5:00:58 PM
+,Report Genetare End 1,2/7/2018 4:49:14 PM,2/7/2018 5:01:00 PM
+,Report End,2/7/2018 4:46:48 PM,2/7/2018 5:02:24 PM

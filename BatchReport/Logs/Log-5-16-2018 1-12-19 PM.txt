@@ -1,0 +1,47 @@
+Start Page Load 5/16/2018 1:12:19 PM
+Option selected Approve
+assignRequest4 =5/16/2018 1:12:34 PM
+assignRequest4 =5/16/2018 1:12:38 PM
+,Report Genetare start 1,5/16/2018 1:12:41 PM,
+Start Report =5/16/2018 1:12:52 PM
+Get DATATABLE5/16/2018 1:13:39 PM
+DATATABLE End5/16/2018 1:13:44 PM
+Gottlieb, Benjamin Family,,5/16/2018 1:13:56 PM,
+Report Name Capital Markets Review
+Gottlieb, Benjamin Family,,5/16/2018 1:15:55 PM,
+Report Name Short Term Commentary
+Gottlieb, Benjamin Family,,5/16/2018 1:15:55 PM,
+Report Name Performance Exhibit
+Gottlieb, Benjamin Family,,5/16/2018 1:15:55 PM,
+Report Name Short Term Performance
+Gottlieb, Benjamin Family,Short Term Performance,5/16/2018 1:15:55 PM,
+Gottlieb, Benjamin Family,Short Term Performance,5/16/2018 1:15:55 PM,5/16/2018 1:15:57 PM
+Gottlieb, Benjamin Family,Coversheet,5/16/2018 1:15:57 PM,
+Gottlieb, Benjamin Family,Short Term Performance,5/16/2018 1:15:57 PM,5/16/2018 1:15:59 PM
+Gottlieb, Benjamin Family,,5/16/2018 1:15:59 PM,
+Report Name Marketable Performance Commentary
+Gottlieb, Benjamin Family,,5/16/2018 1:15:59 PM,
+Report Name Marketable Performance
+Gottlieb, Benjamin Family,Marketable Performance,5/16/2018 1:15:59 PM,
+Gottlieb, Benjamin Family,Marketable Performance,5/16/2018 1:15:59 PM,5/16/2018 1:16:13 PM
+Gottlieb, Benjamin Family,,5/16/2018 1:16:13 PM,
+Report Name Portfolio Construction Chart v2.1
+Gottlieb, Benjamin Family,Portfolio Construction Chart v2.1,5/16/2018 1:16:13 PM,
+Gottlieb, Benjamin Family,Portfolio Construction Chart v2.1,5/16/2018 1:16:13 PM,5/16/2018 1:16:24 PM
+Gottlieb, Benjamin Family,,5/16/2018 1:16:24 PM,
+Report Name Asset Distribution
+Gottlieb, Benjamin Family,Asset Distribution,5/16/2018 1:16:24 PM,
+Gottlieb, Benjamin Family,Asset Distribution,5/16/2018 1:16:24 PM,5/16/2018 1:16:25 PM
+Gottlieb, Benjamin Family,,5/16/2018 1:16:25 PM,
+Report Name Performance Notes
+Gottlieb, Benjamin Family,,5/16/2018 1:16:25 PM,
+Report Name Appendix
+Gottlieb, Benjamin Family, Merge Coversheet,5/16/2018 1:16:31 PM,
+Gottlieb, Benjamin Family,, Merge Coversheet,,5/16/2018 1:16:31 PM,5/16/2018 1:16:31 PM
+ContactFolderNameGottlieb, Benjamin Family_Gottlieb, Benjamin (Q)5/16/2018 1:16:31 PM
+noIndex.TextLabel5/16/2018 1:16:31 PM
+Gottlieb, Benjamin Family, Index,5/16/2018 1:16:31 PM,
+Gottlieb, Benjamin Family,, Index,,5/16/2018 1:16:31 PM,5/16/2018 1:16:31 PM
+Report END 5/16/2018 1:16:31 PM
+,Report Genetare End 1,5/16/2018 1:12:41 PM,5/16/2018 1:17:10 PM
+,Report End,5/16/2018 1:12:19 PM,5/16/2018 1:17:14 PM

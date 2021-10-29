@@ -1,0 +1,28 @@
+Start Page Load 7/5/2017 5:31:34 PM
+Option selected Approve
+assignRequest3 =7/5/2017 5:33:26 PM
+assignRequest3 =7/5/2017 5:33:28 PM
+,Report Genetare start 1,7/5/2017 5:33:47 PM,
+Start Report =7/5/2017 5:33:47 PM
+Get DATATABLE7/5/2017 5:33:55 PM
+DATATABLE End7/5/2017 5:33:56 PM
+Owen, Jay Family,,7/5/2017 5:33:56 PM,
+Report Name Portfolio Construction Chart v2.1
+Owen, Jay Family,Portfolio Construction Chart v2.1,7/5/2017 5:33:56 PM,
+Report END 7/5/2017 5:33:57 PM
+Start Report =7/5/2017 5:34:02 PM
+Get DATATABLE7/5/2017 5:34:04 PM
+DATATABLE End7/5/2017 5:34:05 PM
+Owen, Jay Family,,7/5/2017 5:34:05 PM,
+Report Name Portfolio Construction Chart v2.1
+Owen, Jay Family,Portfolio Construction Chart v2.1,7/5/2017 5:34:05 PM,
+Report END 7/5/2017 5:34:07 PM
+Start Report =7/5/2017 5:34:11 PM
+Get DATATABLE7/5/2017 5:34:47 PM
+DATATABLE End7/5/2017 5:34:50 PM
+Owen, Jay Family,,7/5/2017 5:34:55 PM,
+Report Name Portfolio Construction Chart v2.1
+Owen, Jay Family,Portfolio Construction Chart v2.1,7/5/2017 5:35:09 PM,
+Report END 7/5/2017 5:35:21 PM
+,Report Genetare End 1,7/5/2017 5:33:47 PM,7/5/2017 5:35:24 PM
+,Report End,7/5/2017 5:31:34 PM,7/5/2017 5:35:32 PM

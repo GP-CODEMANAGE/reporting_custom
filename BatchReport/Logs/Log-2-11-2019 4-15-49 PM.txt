@@ -1,0 +1,16 @@
+Start Page Load 2/11/2019 4:15:48 PM
+Option selected Approve
+,Report Genetare start 1,2/11/2019 4:17:20 PM,
+Start Report =2/11/2019 4:17:27 PM
+Get DATATABLE2/11/2019 4:18:21 PM
+DATATABLE End2/11/2019 4:18:24 PM
+Adams Family,,2/11/2019 4:18:35 PM,
+Report Name Capital Markets Review
+Adams Family,,2/11/2019 4:20:09 PM,
+Report Name Long Term Commentary
+Adams Family,,2/11/2019 4:21:37 PM,
+Report Name Private Real Assets Performance
+Adams Family,Private Real Assets Performance,2/11/2019 4:21:54 PM,
+Report END 2/11/2019 4:23:21 PM
+,Report Genetare End 1,2/11/2019 4:17:20 PM,2/11/2019 4:23:22 PM
+,Report End,2/11/2019 4:15:48 PM,2/11/2019 4:23:29 PM

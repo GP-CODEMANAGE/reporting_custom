@@ -1,0 +1,75 @@
+Start Page Load 11/7/2019 3:24:23 PM
+Option selected Review PDF/Batch
+,Report Genetare start 2,11/7/2019 3:24:40 PM,
+Start Report =11/7/2019 3:24:40 PM
+Get DATATABLE11/7/2019 3:24:59 PM
+DATATABLE End11/7/2019 3:25:00 PM
+Adams Family,,11/7/2019 3:25:00 PM,
+Report Name Capital Markets Review
+Adams Family,,11/7/2019 3:25:00 PM,
+Report Name Long Term Commentary
+Adams Family,,11/7/2019 3:25:00 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,11/7/2019 3:25:01 PM,
+Adams Family,Absolute Returns,11/7/2019 3:25:01 PM,11/7/2019 3:25:10 PM
+Adams Family,Coversheet,11/7/2019 3:25:10 PM,
+Adams Family,Absolute Returns,11/7/2019 3:25:10 PM,11/7/2019 3:25:11 PM
+Adams Family,,11/7/2019 3:25:11 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,11/7/2019 3:25:20 PM,
+|Month   |Honore               |Strategic Benchmark  |MSCI AC World Index  |Honor Max Drawdown  |BenchMarkMax Drawdown  |MSCI AC World Index Drawdown  |BenchMarkName  |MinDate                  |MaxNavMSCIStartDate  |MinDrawDownMSCIDate  
+|Oct-08  |-0.0957581019279237  |                     |-0.1981              |-0.291719           |-0.145797063071212     |-0.52313878689928             |MSCI AC World  |01/01/2008 - 02/28/2009  |01/01/2008           |02/28/2009           
+|Oct-08  |-0.0957581019279237  |                     |-0.1981              |-0.291719           |-0.145797063071212     |-0.52313878689928             |MSCI AC World  |01/01/2008 - 02/28/2009  |01/01/2008           |02/28/2009           |Sep-08  |-0.0859071938008324  |                     |-0.125               |-0.291719           |-0.145797063071212     |-0.52313878689928             |MSCI AC World  |01/01/2008 - 02/28/2009  |01/01/2008           |02/28/2009           
+|Oct-08  |-0.0957581019279237  |                     |-0.1981              |-0.291719           |-0.145797063071212     |-0.52313878689928             |MSCI AC World  |01/01/2008 - 02/28/2009  |01/01/2008           |02/28/2009           |Sep-08  |-0.0859071938008324  |                     |-0.125               |-0.291719           |-0.145797063071212     |-0.52313878689928             |MSCI AC World  |01/01/2008 - 02/28/2009  |01/01/2008           |02/28/2009           |Feb-09  |-0.0404652926216009  |                     |-0.0979              |-0.291719           |-0.145797063071212     |-0.52313878689928             |MSCI AC World  |01/01/2008 - 02/28/2009  |01/01/2008           |02/28/2009           
+Adams Family,Capital Protection,11/7/2019 3:25:20 PM,11/7/2019 3:26:32 PM
+Adams Family,,11/7/2019 3:26:32 PM,
+Report Name Short Term Commentary
+Adams Family,,11/7/2019 3:26:32 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,11/7/2019 3:26:33 PM,
+Adams Family,Short Term Performance,11/7/2019 3:26:33 PM,11/7/2019 3:26:37 PM
+Adams Family,,11/7/2019 3:26:37 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,11/7/2019 3:26:37 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,11/7/2019 3:26:38 PM,
+Adams Family,Marketable Performance,11/7/2019 3:26:38 PM,11/7/2019 3:26:44 PM
+Adams Family,,11/7/2019 3:26:44 PM,
+Report Name Private Equity Commentary
+Adams Family,,11/7/2019 3:26:44 PM,
+Report Name Private Equity Performance
+Adams Family,Private Equity Performance,11/7/2019 3:26:54 PM,
+Adams Family,Private Equity Performance,11/7/2019 3:26:54 PM,11/7/2019 3:26:54 PM
+Adams Family,,11/7/2019 3:26:54 PM,
+Report Name Private Real Assets Commentary
+Adams Family,,11/7/2019 3:26:54 PM,
+Report Name Private Real Assets Performance
+Adams Family,Private Real Assets Performance,11/7/2019 3:26:55 PM,
+Adams Family,Private Real Assets Performance,11/7/2019 3:26:55 PM,11/7/2019 3:26:55 PM
+Adams Family,,11/7/2019 3:26:55 PM,
+Report Name Portfolio Construction Chart v2.1
+Adams Family,Portfolio Construction Chart v2.1,11/7/2019 3:26:56 PM,
+Adams Family,Portfolio Construction Chart v2.1,11/7/2019 3:26:56 PM,11/7/2019 3:26:59 PM
+Adams Family,,11/7/2019 3:26:59 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,11/7/2019 3:27:01 PM,
+Adams Family,Asset Distribution,11/7/2019 3:27:01 PM,11/7/2019 3:27:08 PM
+Adams Family,,11/7/2019 3:27:08 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,11/7/2019 3:27:09 PM,
+Adams Family,Asset Distribution,11/7/2019 3:27:09 PM,11/7/2019 3:27:14 PM
+Adams Family,,11/7/2019 3:27:14 PM,
+Report Name Performance Notes
+Adams Family,,11/7/2019 3:27:14 PM,
+Report Name Appendix
+Adams Family, Merge Coversheet,11/7/2019 3:27:19 PM,
+Adams Family,, Merge Coversheet,,11/7/2019 3:27:19 PM,11/7/2019 3:27:19 PM
+ContactFolderNameAdams Family_Adams IV, William (Q)_6392111/7/2019 3:27:19 PM
+noIndex.TextLabel11/7/2019 3:27:19 PM
+Adams Family, Index,11/7/2019 3:27:19 PM,
+Adams Family,, Index,,11/7/2019 3:27:19 PM,11/7/2019 3:27:19 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20191107_152459737-----11/7/2019 3:27:22 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20191107_152459737-----11/7/2019 3:27:22 PM
+Report END 11/7/2019 3:27:22 PM
+,Report Genetare End 2,11/7/2019 3:24:40 PM,11/7/2019 3:27:22 PM
+,Report End,11/7/2019 3:24:23 PM,11/7/2019 3:27:23 PM

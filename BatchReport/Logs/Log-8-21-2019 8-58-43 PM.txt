@@ -1,0 +1,100 @@
+Start Page Load 8/21/2019 8:58:43 PM
+Option selected Approve
+,Report Genetare start 1,8/21/2019 8:59:05 PM,
+Start Report =8/21/2019 8:59:05 PM
+Get DATATABLE8/21/2019 8:59:12 PM
+DATATABLE End8/21/2019 8:59:14 PM
+Gantz Family,,8/21/2019 8:59:14 PM,
+Report Name Capital Markets Review
+Gantz Family,,8/21/2019 8:59:14 PM,
+Report Name Long Term Commentary
+Gantz Family,,8/21/2019 8:59:14 PM,
+Report Name Absolute Returns
+Gantz Family,Absolute Returns,8/21/2019 8:59:14 PM,
+Gantz Family,Absolute Returns,8/21/2019 8:59:14 PM,8/21/2019 8:59:21 PM
+Gantz Family,Coversheet,8/21/2019 8:59:21 PM,
+Gantz Family,Absolute Returns,8/21/2019 8:59:21 PM,8/21/2019 8:59:21 PM
+Gantz Family,,8/21/2019 8:59:21 PM,
+Report Name Capital Protection
+Gantz Family,Capital Protection,8/21/2019 8:59:21 PM,
+Gantz Family,Capital Protection,8/21/2019 8:59:21 PM,8/21/2019 8:59:46 PM
+Gantz Family,,8/21/2019 8:59:46 PM,
+Report Name Short Term Commentary
+Gantz Family,,8/21/2019 8:59:46 PM,
+Report Name Short Term Performance
+Gantz Family,Short Term Performance,8/21/2019 8:59:46 PM,
+Gantz Family,Short Term Performance,8/21/2019 8:59:46 PM,8/21/2019 8:59:54 PM
+Gantz Family,,8/21/2019 8:59:54 PM,
+Report Name Marketable Performance Commentary
+Gantz Family,,8/21/2019 8:59:54 PM,
+Report Name Marketable Performance
+Gantz Family,Marketable Performance,8/21/2019 8:59:54 PM,
+Gantz Family,Marketable Performance,8/21/2019 8:59:54 PM,8/21/2019 9:00:00 PM
+Gantz Family,,8/21/2019 9:00:00 PM,
+Report Name Portfolio Construction Chart v2.1
+Gantz Family,Portfolio Construction Chart v2.1,8/21/2019 9:00:00 PM,
+Gantz Family,Portfolio Construction Chart v2.1,8/21/2019 9:00:00 PM,8/21/2019 9:00:05 PM
+Gantz Family,,8/21/2019 9:00:05 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:05 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:05 PM,8/21/2019 9:00:08 PM
+Gantz Family,,8/21/2019 9:00:08 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:08 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:08 PM,8/21/2019 9:00:11 PM
+Gantz Family,,8/21/2019 9:00:11 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:11 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:11 PM,8/21/2019 9:00:15 PM
+Gantz Family,,8/21/2019 9:00:15 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:15 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:15 PM,8/21/2019 9:00:20 PM
+Gantz Family,,8/21/2019 9:00:20 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:20 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:20 PM,8/21/2019 9:00:24 PM
+Gantz Family,,8/21/2019 9:00:24 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:24 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:24 PM,8/21/2019 9:00:29 PM
+Gantz Family,,8/21/2019 9:00:29 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:29 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:29 PM,8/21/2019 9:00:35 PM
+Gantz Family,,8/21/2019 9:00:35 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:35 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:35 PM,8/21/2019 9:00:39 PM
+Gantz Family,,8/21/2019 9:00:39 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:39 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:39 PM,8/21/2019 9:00:43 PM
+Gantz Family,,8/21/2019 9:00:43 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:43 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:43 PM,8/21/2019 9:00:48 PM
+Gantz Family,,8/21/2019 9:00:48 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:48 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:48 PM,8/21/2019 9:00:49 PM
+Gantz Family,,8/21/2019 9:00:49 PM,
+Report Name Asset Distribution
+Gantz Family,Asset Distribution,8/21/2019 9:00:49 PM,
+Gantz Family,Asset Distribution,8/21/2019 9:00:49 PM,8/21/2019 9:00:53 PM
+Gantz Family,,8/21/2019 9:00:53 PM,
+Report Name Performance Notes
+Gantz Family,,8/21/2019 9:00:53 PM,
+Report Name Appendix
+Gantz Family, Merge Coversheet,8/21/2019 9:00:58 PM,
+Gantz Family,, Merge Coversheet,,8/21/2019 9:00:58 PM,8/21/2019 9:00:58 PM
+ContactFolderNameGantz Family_Gantz, Wilbur (Q)_169508/21/2019 9:00:58 PM
+noIndex.TextLabel8/21/2019 9:00:58 PM
+Gantz Family, Index,8/21/2019 9:00:58 PM,
+Gantz Family,, Index,,8/21/2019 9:00:58 PM,8/21/2019 9:00:58 PM
+MSIS7068: Access denied.8/21/2019 9:00:59 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20190821_205912700-----8/21/2019 9:00:59 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20190821_205912700-----8/21/2019 9:00:59 PM
+Report END 8/21/2019 9:00:59 PM
+,Report Genetare End 1,8/21/2019 8:59:05 PM,8/21/2019 9:00:59 PM
+,Report End,8/21/2019 8:58:43 PM,8/21/2019 9:01:00 PM

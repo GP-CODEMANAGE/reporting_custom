@@ -1,0 +1,57 @@
+Start Page Load 8/19/2019 6:08:30 PM
+Option selected Approve
+assignRequest3 =8/19/2019 6:09:06 PM
+assignRequest3 =8/19/2019 6:09:13 PM
+,Report Genetare start 1,8/19/2019 6:09:23 PM,
+Start Report =8/19/2019 6:09:23 PM
+Get DATATABLE8/19/2019 6:09:31 PM
+DATATABLE End8/19/2019 6:09:33 PM
+Eterovic Family,,8/19/2019 6:09:33 PM,
+Report Name Capital Markets Review
+Eterovic Family,,8/19/2019 6:09:33 PM,
+Report Name Long Term Commentary
+Eterovic Family,,8/19/2019 6:09:33 PM,
+Report Name Absolute Returns
+Eterovic Family,Absolute Returns,8/19/2019 6:09:33 PM,
+Eterovic Family,Absolute Returns,8/19/2019 6:09:33 PM,8/19/2019 6:10:07 PM
+Eterovic Family,Coversheet,8/19/2019 6:10:07 PM,
+Eterovic Family,Absolute Returns,8/19/2019 6:10:07 PM,8/19/2019 6:10:09 PM
+Eterovic Family,,8/19/2019 6:10:09 PM,
+Report Name Capital Protection
+Eterovic Family,Capital Protection,8/19/2019 6:10:09 PM,
+Eterovic Family,Capital Protection,8/19/2019 6:10:09 PM,8/19/2019 6:10:54 PM
+Eterovic Family,,8/19/2019 6:10:54 PM,
+Report Name Short Term Commentary
+Eterovic Family,,8/19/2019 6:10:54 PM,
+Report Name Short Term Performance
+Eterovic Family,Short Term Performance,8/19/2019 6:10:54 PM,
+Eterovic Family,Short Term Performance,8/19/2019 6:10:54 PM,8/19/2019 6:11:01 PM
+Eterovic Family,,8/19/2019 6:11:01 PM,
+Report Name Marketable Performance Commentary
+Eterovic Family,,8/19/2019 6:11:01 PM,
+Report Name Marketable Performance
+Eterovic Family,Marketable Performance,8/19/2019 6:11:01 PM,
+Eterovic Family,Marketable Performance,8/19/2019 6:11:01 PM,8/19/2019 6:12:05 PM
+Eterovic Family,,8/19/2019 6:12:05 PM,
+Report Name Portfolio Construction Chart v2.1
+Eterovic Family,Portfolio Construction Chart v2.1,8/19/2019 6:12:05 PM,
+Eterovic Family,Portfolio Construction Chart v2.1,8/19/2019 6:12:05 PM,8/19/2019 6:12:18 PM
+Eterovic Family,,8/19/2019 6:12:18 PM,
+Report Name Asset Distribution
+Eterovic Family,Asset Distribution,8/19/2019 6:12:18 PM,
+Eterovic Family,Asset Distribution,8/19/2019 6:12:18 PM,8/19/2019 6:12:24 PM
+Eterovic Family,,8/19/2019 6:12:24 PM,
+Report Name Performance Notes
+Eterovic Family,,8/19/2019 6:12:24 PM,
+Report Name Appendix
+Eterovic Family, Merge Coversheet,8/19/2019 6:12:28 PM,
+Eterovic Family,, Merge Coversheet,,8/19/2019 6:12:28 PM,8/19/2019 6:12:28 PM
+ContactFolderNameEterovic Family_Eterovic, Cedomir (Q)_627628/19/2019 6:12:28 PM
+noIndex.TextLabel8/19/2019 6:12:28 PM
+Eterovic Family, Index,8/19/2019 6:12:28 PM,
+Eterovic Family,, Index,,8/19/2019 6:12:28 PM,8/19/2019 6:12:28 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20190819_180931836-----8/19/2019 6:12:32 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20190819_180931836-----8/19/2019 6:12:32 PM
+Report END 8/19/2019 6:12:32 PM
+,Report Genetare End 1,8/19/2019 6:09:23 PM,8/19/2019 6:12:32 PM
+,Report End,8/19/2019 6:08:30 PM,8/19/2019 6:12:33 PM

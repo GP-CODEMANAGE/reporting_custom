@@ -1,0 +1,43 @@
+Start Page Load 5/17/2018 7:58:23 PM
+Option selected Approve
+assignRequest4 =5/17/2018 7:58:39 PM
+assignRequest4 =5/17/2018 7:58:41 PM
+,Report Genetare start 1,5/17/2018 7:58:48 PM,
+Start Report =5/17/2018 7:58:50 PM
+Get DATATABLE5/17/2018 7:59:16 PM
+DATATABLE End5/17/2018 7:59:27 PM
+Cretors Family-Bailey A,,5/17/2018 7:59:33 PM,
+Report Name Capital Markets Review
+Cretors Family-Bailey A,,5/17/2018 7:59:35 PM,
+Report Name Short Term Commentary
+Cretors Family-Bailey A,,5/17/2018 7:59:38 PM,
+Report Name Short Term Performance
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 7:59:48 PM,
+Cretors Family-Bailey A,Short Term Performance,5/17/2018 7:59:48 PM,5/17/2018 8:00:00 PM
+Cretors Family-Bailey A,,5/17/2018 8:00:03 PM,
+Report Name Marketable Performance Commentary
+Cretors Family-Bailey A,,5/17/2018 8:00:06 PM,
+Report Name Marketable Performance
+Cretors Family-Bailey A,Marketable Performance,5/17/2018 8:00:19 PM,
+Cretors Family-Bailey A,Marketable Performance,5/17/2018 8:00:19 PM,5/17/2018 8:00:28 PM
+Cretors Family-Bailey A,,5/17/2018 8:00:29 PM,
+Report Name Portfolio Construction Chart v2.1
+Cretors Family-Bailey A,Portfolio Construction Chart v2.1,5/17/2018 8:01:26 PM,
+Cretors Family-Bailey A,Portfolio Construction Chart v2.1,5/17/2018 8:01:26 PM,5/17/2018 8:01:28 PM
+Cretors Family-Bailey A,,5/17/2018 8:01:28 PM,
+Report Name Asset Distribution
+Cretors Family-Bailey A,Asset Distribution,5/17/2018 8:01:28 PM,
+Cretors Family-Bailey A,Asset Distribution,5/17/2018 8:01:28 PM,5/17/2018 8:01:28 PM
+Cretors Family-Bailey A,,5/17/2018 8:01:28 PM,
+Report Name Performance Notes
+Cretors Family-Bailey A,,5/17/2018 8:01:28 PM,
+Report Name Appendix
+Cretors Family-Bailey A, Merge Coversheet,5/17/2018 8:01:34 PM,
+Cretors Family-Bailey A,, Merge Coversheet,,5/17/2018 8:01:34 PM,5/17/2018 8:01:34 PM
+ContactFolderNameCretors Family_Bailey, Annie (Q)5/17/2018 8:01:34 PM
+noIndex.TextLabel5/17/2018 8:01:34 PM
+Cretors Family-Bailey A, Index,5/17/2018 8:01:34 PM,
+Cretors Family-Bailey A,, Index,,5/17/2018 8:01:34 PM,5/17/2018 8:01:34 PM
+Report END 5/17/2018 8:01:34 PM
+,Report Genetare End 1,5/17/2018 7:58:48 PM,5/17/2018 8:01:34 PM
+,Report End,5/17/2018 7:58:23 PM,5/17/2018 8:01:39 PM

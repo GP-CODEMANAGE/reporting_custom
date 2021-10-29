@@ -1,0 +1,59 @@
+Start Page Load 7/24/2018 7:29:15 PM
+Option selected Approve
+assignRequest4 =7/24/2018 7:30:08 PM
+assignRequest4 =7/24/2018 7:30:14 PM
+,Report Genetare start 1,7/24/2018 7:30:18 PM,
+Start Report =7/24/2018 7:30:18 PM
+Get DATATABLE7/24/2018 7:30:19 PM
+DATATABLE End7/24/2018 7:30:20 PM
+Adams Family,,7/24/2018 7:30:20 PM,
+Report Name Capital Markets Review
+Adams Family,,7/24/2018 7:30:20 PM,
+Report Name Long Term Commentary
+Adams Family,,7/24/2018 7:30:20 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,7/24/2018 7:30:20 PM,
+Adams Family,Absolute Returns,7/24/2018 7:30:20 PM,7/24/2018 7:30:28 PM
+Adams Family,Coversheet,7/24/2018 7:30:28 PM,
+Adams Family,Absolute Returns,7/24/2018 7:30:28 PM,7/24/2018 7:30:29 PM
+Adams Family,,7/24/2018 7:30:29 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,7/24/2018 7:30:29 PM,
+Adams Family,Capital Protection,7/24/2018 7:30:29 PM,7/24/2018 7:30:44 PM
+Adams Family,,7/24/2018 7:30:44 PM,
+Report Name Short Term Commentary
+Adams Family,,7/24/2018 7:30:44 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,7/24/2018 7:30:44 PM,
+Adams Family,Short Term Performance,7/24/2018 7:30:44 PM,7/24/2018 7:30:47 PM
+Adams Family,,7/24/2018 7:30:47 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,7/24/2018 7:30:47 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,7/24/2018 7:30:47 PM,
+Adams Family,Marketable Performance,7/24/2018 7:30:47 PM,7/24/2018 7:30:50 PM
+Adams Family,,7/24/2018 7:30:50 PM,
+Report Name Portfolio Construction Chart v2.1
+Adams Family,Portfolio Construction Chart v2.1,7/24/2018 7:30:50 PM,
+Adams Family,Portfolio Construction Chart v2.1,7/24/2018 7:30:50 PM,7/24/2018 7:30:53 PM
+Adams Family,,7/24/2018 7:30:53 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,7/24/2018 7:30:53 PM,
+Adams Family,Asset Distribution,7/24/2018 7:30:53 PM,7/24/2018 7:30:58 PM
+Adams Family,,7/24/2018 7:30:58 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,7/24/2018 7:30:58 PM,
+Adams Family,Asset Distribution,7/24/2018 7:30:58 PM,7/24/2018 7:31:04 PM
+Adams Family,,7/24/2018 7:31:04 PM,
+Report Name Performance Notes
+Adams Family,,7/24/2018 7:31:04 PM,
+Report Name Appendix
+Adams Family, Merge Coversheet,7/24/2018 7:40:42 PM,
+Adams Family,, Merge Coversheet,,7/24/2018 7:40:42 PM,7/24/2018 7:40:42 PM
+ContactFolderNameAdams Family_Adams IV, William (Q)_427157037/24/2018 7:40:42 PM
+noIndex.TextLabel7/24/2018 7:40:42 PM
+Adams Family, Index,7/24/2018 7:40:42 PM,
+Adams Family,, Index,,7/24/2018 7:40:42 PM,7/24/2018 7:40:42 PM
+Report END 7/24/2018 7:40:44 PM
+,Report Genetare End 1,7/24/2018 7:30:18 PM,7/24/2018 7:40:44 PM
+,Report End,7/24/2018 7:29:15 PM,7/24/2018 7:40:47 PM

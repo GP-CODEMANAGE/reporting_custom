@@ -1,0 +1,27 @@
+FontName (Frutiger-Black)
+FullName (Frutiger 75 Black)
+AppleName (Frutiger 75 Black)
+AppleFONDID 14707
+FamilyName (Frutiger)
+version (001.002)
+isFixedPitch false
+CharacterSet (isoadobe)
+Encoding (StandardEncoding)
+ItalicAngle 0
+CapHeight 698
+UnderlinePosition -100
+UnderlineThickness 50
+StemWidth 180
+Serif false
+Pi false
+SuperiorBaseline 282
+MSMenuName (Frutiger 55 Roman)
+VPMenuName (Frutiger 55 Roman)
+WORDMenuName (Frutiger55Roman)
+VPTypefaceID 85
+VPStyle (B)
+PCFileNamePrefix (FTBL_)
+PCLTypefaceID 20657
+PCLStrokeWeight 5
+PCLStyle 0
+

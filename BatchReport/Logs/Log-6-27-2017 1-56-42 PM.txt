@@ -1,0 +1,9 @@
+Start Page Load 6/27/2017 1:56:42 PM
+Option selected Approve
+,Update Batch,6/27/2017 1:56:46 PM,
+,Update Batch,6/27/2017 1:56:46 PM,6/27/2017 1:56:48 PM
+,Report Genetare start 1,6/27/2017 2:02:46 PM,
+Start Report =6/27/2017 2:02:46 PM
+Report END 6/27/2017 2:02:49 PM
+,Report Genetare End 1,6/27/2017 2:02:46 PM,6/27/2017 2:02:49 PM
+,Report End,6/27/2017 1:56:42 PM,6/27/2017 2:02:54 PM

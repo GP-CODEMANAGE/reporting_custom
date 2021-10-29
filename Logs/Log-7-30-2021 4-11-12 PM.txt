@@ -1,0 +1,5 @@
+Start Page Load 7/30/2021 4:11:12 PM
+User corp\gbhagia
+UserID from DB  8bbc3c03-b19e-e411-9406-005056a0567e
+Connected to CRM  Microsoft.Xrm.Sdk.Client.OrganizationServiceProxy
+CallerID set  8bbc3c03-b19e-e411-9406-005056a0567e

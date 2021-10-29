@@ -1,0 +1,61 @@
+Start Page Load 8/16/2019 8:47:47 PM
+Option selected Approve
+assignRequest4 =8/16/2019 8:48:19 PM
+assignRequest4 =8/16/2019 8:48:26 PM
+,Report Genetare start 1,8/16/2019 8:48:37 PM,
+Start Report =8/16/2019 8:48:37 PM
+Get DATATABLE8/16/2019 8:48:46 PM
+DATATABLE End8/16/2019 8:48:46 PM
+Adams Family,,8/16/2019 8:48:46 PM,
+Report Name Capital Markets Review
+Adams Family,,8/16/2019 8:48:46 PM,
+Report Name Long Term Commentary
+Adams Family,,8/16/2019 8:48:46 PM,
+Report Name Absolute Returns
+Adams Family,Absolute Returns,8/16/2019 8:48:46 PM,
+Adams Family,Absolute Returns,8/16/2019 8:48:46 PM,8/16/2019 8:48:56 PM
+Adams Family,Coversheet,8/16/2019 8:48:56 PM,
+Adams Family,Absolute Returns,8/16/2019 8:48:56 PM,8/16/2019 8:48:56 PM
+Adams Family,,8/16/2019 8:48:56 PM,
+Report Name Capital Protection
+Adams Family,Capital Protection,8/16/2019 8:48:56 PM,
+Adams Family,Capital Protection,8/16/2019 8:48:56 PM,8/16/2019 8:49:22 PM
+Adams Family,,8/16/2019 8:49:22 PM,
+Report Name Short Term Commentary
+Adams Family,,8/16/2019 8:49:22 PM,
+Report Name Short Term Performance
+Adams Family,Short Term Performance,8/16/2019 8:49:22 PM,
+Adams Family,Short Term Performance,8/16/2019 8:49:22 PM,8/16/2019 8:49:26 PM
+Adams Family,,8/16/2019 8:49:26 PM,
+Report Name Marketable Performance Commentary
+Adams Family,,8/16/2019 8:49:26 PM,
+Report Name Marketable Performance
+Adams Family,Marketable Performance,8/16/2019 8:49:26 PM,
+Adams Family,Marketable Performance,8/16/2019 8:49:26 PM,8/16/2019 8:49:29 PM
+Adams Family,,8/16/2019 8:49:29 PM,
+Report Name Portfolio Construction Chart v2.1
+Adams Family,Portfolio Construction Chart v2.1,8/16/2019 8:49:29 PM,
+Adams Family,Portfolio Construction Chart v2.1,8/16/2019 8:49:29 PM,8/16/2019 8:49:31 PM
+Adams Family,,8/16/2019 8:49:31 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,8/16/2019 8:49:31 PM,
+Adams Family,Asset Distribution,8/16/2019 8:49:31 PM,8/16/2019 8:49:33 PM
+Adams Family,,8/16/2019 8:49:33 PM,
+Report Name Asset Distribution
+Adams Family,Asset Distribution,8/16/2019 8:49:33 PM,
+Adams Family,Asset Distribution,8/16/2019 8:49:33 PM,8/16/2019 8:49:34 PM
+Adams Family,,8/16/2019 8:49:34 PM,
+Report Name Performance Notes
+Adams Family,,8/16/2019 8:49:34 PM,
+Report Name Appendix
+Adams Family, Merge Coversheet,8/16/2019 8:49:38 PM,
+Adams Family,, Merge Coversheet,,8/16/2019 8:49:38 PM,8/16/2019 8:49:38 PM
+ContactFolderNameAdams Family_Adams IV, William (Q)_989808/16/2019 8:49:38 PM
+noIndex.TextLabel8/16/2019 8:49:38 PM
+Adams Family, Index,8/16/2019 8:49:38 PM,
+Adams Family,, Index,,8/16/2019 8:49:38 PM,8/16/2019 8:49:38 PM
+FOLDER DELETE--> C:\Reports\\gbhagia_20190816_204846176-----8/16/2019 8:49:40 PM
+FOLDER DELETE--> D:\Back Data 19-08-2016\D Data\Development\GreshamPartners\Reporting Custom\BatchReport\ExcelTemplate\TempFolder\gbhagia_20190816_204846176-----8/16/2019 8:49:40 PM
+Report END 8/16/2019 8:49:40 PM
+,Report Genetare End 1,8/16/2019 8:48:37 PM,8/16/2019 8:49:40 PM
+,Report End,8/16/2019 8:47:47 PM,8/16/2019 8:49:41 PM

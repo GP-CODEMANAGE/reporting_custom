@@ -1,0 +1,11 @@
+Start Page Load 6/29/2017 3:49:19 PM
+Option selected Un-approve
+,Update Batch,6/29/2017 3:50:00 PM,
+,Batch ID,3f1941cb-692b-e711-9422-005056a0567e,6/29/2017 3:50:31 PM
+,ssi_holdreport is nullll,0,6/29/2017 3:50:36 PM
+,Before UPDATE,0,6/29/2017 3:50:38 PM
+,AFTER UPDATE is nullll,0,6/29/2017 3:50:43 PM
+,Update Batch,6/29/2017 3:50:00 PM,6/29/2017 3:51:01 PM
+Before lopp6/29/2017 3:51:30 PM
+objBatch Updated 16076/29/2017 3:52:38 PM
+,Report End,6/29/2017 3:49:19 PM,6/29/2017 3:54:21 PM
